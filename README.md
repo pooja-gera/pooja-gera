@@ -22,6 +22,14 @@ I have a diverse skill set which includes web design and development, machine le
 I also possess leadership skills which I exhibit being an active Rotaractor at Rotaract Club of Delhi Philanthropists where I am serving as the Club Secretary for Rota Year 2020-21.
 In addition to building solutions for making lives easier by improvising technology, I also help the community as and whenever I can. 
 
+### My positions of responsibility: 
+
+    :alien:Co-Creator, The WireUs Challenge www.thewireuschallenge.com
+    :alien:Project Coordinator (ML/AI), DSC IGDTUW
+    :alien:Mentor, Web Development, LeanIN IGDTUW
+    :alien:Technical Lead, AI Club IGDTUW
+    :alien:Secretary, Rotaract Club of Delhi Philanthropists
+
 
 ### I am currently working on 
    :point_right:The WireUs Challenge, a hundred day challenge offered in 12 domains of development and design.
