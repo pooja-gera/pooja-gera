@@ -24,14 +24,14 @@ In addition to building solutions for making lives easier by improvising technol
 
 ### My positions of responsibility: 
 
-    :alien:Co-Creator, The WireUs Challenge www.thewireuschallenge.com
-    :alien:Project Coordinator (ML/AI), DSC IGDTUW
-    :alien:Mentor, Web Development, LeanIN IGDTUW
-    :alien:Technical Lead, AI Club IGDTUW
-    :alien:Secretary, Rotaract Club of Delhi Philanthropists
+    👽 Co-Creator, The WireUs Challenge www.thewireuschallenge.com 
+    👽 Project Coordinator (ML/AI), DSC IGDTUW
+    👽 Mentor, Web Development, LeanIN IGDTUW
+    👽 Technical Lead, AI Club IGDTUW
+    👽 Secretary, Rotaract Club of Delhi Philanthropists
 
 
-### I am currently working on 
+### I am currently working on:
    :point_right:The WireUs Challenge, a hundred day challenge offered in 12 domains of development and design.
    
    :point_right: Finding a way to retain the knowledge of my third semester for life.
