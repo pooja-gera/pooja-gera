@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![ForTheBadge uses-brains](https://forthebadge.com/images/badges/uses-brain.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge ctrl-c-ctrl-v](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg](http://ForTheBadge.com)
+[![ForTheBadge not-a-bug-a-feature](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg](http://ForTheBadge.com)
+[![ForTheBadge works-on-my-machine](https://forthebadge.com/images/badges/works-on-my-machine.svg](http://ForTheBadge.com)
+
+
 ### Who am I? 
 
 I am a B.Tech(IT) student at IGDTUW who works to make her dreams come true in reality.
