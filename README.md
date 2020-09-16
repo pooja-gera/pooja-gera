@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-[![ForTheBadge ctrl-c-ctrl-v](https://ForTheBadge.com/images/badges/ctrl-c-ctrl-v.svg](http://ForTheBadge.com)
-[![ForTheBadge not-a-bug-a-feature](https://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg](http://ForTheBadge.com)
-[![ForTheBadge works-on-my-machine](https://ForTheBadge.com/images/badges/works-on-my-machine.svg]
+
+[![ForTheBadge ctrl-c-ctrl-v](http://ForTheBadge.com/images/badges/ctrl-c-ctrl-v.svg](http://ForTheBadge.com)
+
+[![ForTheBadge not-a-bug-a-feature](http://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg](http://ForTheBadge.com)
+
+[![ForTheBadge works-on-my-machine](http://ForTheBadge.com/images/badges/works-on-my-machine.svg](http://ForTheBadge.com)
 
 
 ### Who am I? 
