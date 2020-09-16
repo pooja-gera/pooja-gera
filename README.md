@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ForTheBadge uses-brains](https://ForTheBadge.com/images/badges/uses-brain.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 [![ForTheBadge ctrl-c-ctrl-v](https://ForTheBadge.com/images/badges/ctrl-c-ctrl-v.svg](http://ForTheBadge.com)
 [![ForTheBadge not-a-bug-a-feature](https://ForTheBadge.com/images/badges/not-a-bug-a-feature.svg](http://ForTheBadge.com)
-[![ForTheBadge works-on-my-machine](https://ForTheBadge.com/images/badges/works-on-my-machine.svg](http://ForTheBadge.com)
+[![ForTheBadge works-on-my-machine](https://ForTheBadge.com/images/badges/works-on-my-machine.svg]
 
 
 ### Who am I? 
