@@ -51,7 +51,7 @@ In addition to building solutions for making lives easier by improvising technol
    
    Learning never stops, you start learning right from the day you are born. Learning is not restricted to academic or professional skills but also essential values and life   skills.
    
-   📚 Spanish. I am quite fascinated by this language. I got a chance to take up a course of my own choice as a part of my third semester syllabus and I am grateful that NPTEL had this course to offer. 
+   📚 German. I am quite fascinated by this language. I got a chance to take up a course of my own choice as a part of my third semester syllabus and I am grateful that NPTEL had this course to offer. 
    
    📚 Sanskrit. The language of the Indian scriptures, the language of the holy Vedas, the mother of all languages. I was introduced to this language when I was 11 years old and I studied it until I was 16. Five years of understanding the language by renowned professors, of participating and winning in various competitions and of exploring the beauty of each and every shloka, I was drawn to it like a moth was drawn to the bulb. Unfortunately, I went out of practice for two years. But now I am brushing my skills and concepts once again to come back stronger and sweep away all the awards that are there to win! 
    
