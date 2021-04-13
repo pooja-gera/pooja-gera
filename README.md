@@ -14,7 +14,7 @@
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
 </p>
 
-* My primary coding language: C++
+* My primary coding and problem solving language: C++
 * Three things that summarize my tech interests: Web Development | UI/UX Designing | Blockchain 
 * I give back to the community I have gained so much from. 
 * I write technical articles in a fun way.
