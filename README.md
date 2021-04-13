@@ -1,60 +1,82 @@
-### Greetings Humans! 👋
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Pooja Gera
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/poojagera0_0])
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/channel/UCsGz3EAKmIFe_Lm6Hl27zNg)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pooja-gera/)
 
-<!--
-**pooja-gera/pooja-gera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Tech Toolbox 🧰
 
-Here are some ideas to get you started:
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/165px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="40"/>
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
-[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-![ForTheBadge ctrl-c-ctrl-v](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/ctrl-c-ctrl-v.svg)
-![ForTheBadge not-a-bug-a-feature](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/not-a-bug-a-feature.svg)
-![ForTheBadge works-on-my-machine](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/works-on-my-machine.svg)
+* My primary coding language: C++
+* Three things that summarize my tech interests: Web Development | UI/UX Designing | Blockchain 
+* I give back to the community I have gained so much from. 
+* I write technical articles in a fun way.
+* Join my community on Avalon Voices - [Pooja's Pondering Pond](https://avalon-voices.app.link/3WIwewQWofb) (Application available for Android only for now.)
+* Join my [Telegram Channel](https://t.me/ponderingpondwithpooja).
+* I am a rotaractor and I volunteer for community service events. 
+* I will be happy to help you for your queries regarding web development. 
+* I am currently learning blockchain and am looking to collaborate with people for blockchain projects. 
+
+---
+
+<table><tr><td valign="top" width="50%">
+
+### My Latest Blog Posts 🌱
+<!-- BLOG-POST-LIST:START -->
+- [JSON vs XML](https://www.codingninjas.com/blog/2021/04/12/json-vs-xml-in-2021/)
+- [Elixir for Web Development](https://www.codingninjas.com/blog/2021/04/05/learning-elixir-for-web-development/)
+- [8 Beginner Mistakes to Avoid as a UI Designer](https://www.codingninjas.com/blog/2021/03/30/8-beginner-mistakes-to-avoid-as-a-ui-designer/)
+- [UX vs UI vx CX: What's the difference?](https://www.codingninjas.com/blog/2021/03/23/ux-vs-ui-vs-cx-what-is-the-difference/)
+- [Complete Guide to Web Application Development](https://www.codingninjas.com/blog/2021/03/17/the-complete-guide-to-web-application-development-for-2021/)
+- [10 Best PWA's in 2021](https://www.codingninjas.com/blog/2021/03/04/10-best-progressive-web-applications-in-2021/)
+- [Top 6 Web Development Languages to use in 2021](https://www.codingninjas.com/blog/2021/02/26/top-6-web-development-languages/)
+- [Top 10 NodeJS Frameworks](https://www.codingninjas.com/blog/2021/02/19/top-10-nodejs-frameworks-in-2021/)
+- [Best Security Practices for NodeJS applications](https://www.codingninjas.com/blog/2021/02/15/best-security-practices-web-applications/)
+- [7 Skills to Become a Full Stack Web Developer](https://www.codingninjas.com/blog/category/web-development/page/2/)
+- [Introduction to Docker for Web Development](https://www.codingninjas.com/blog/2021/01/20/introduction-to-docker-for-web-development/)
+- [14 Reasons Why Laravel is the Best PHP Framework](https://www.codingninjas.com/blog/2021/01/20/introduction-to-docker-for-web-development/)
+- [A Guide to Core Redux](https://www.codingninjas.com/blog/2021/01/04/a-guide-to-core-redux-concepts/)
+- [How To Convert An Object To An Array In PHP?](https://www.codingninjas.com/blog/2020/12/30/how-to-convert-an-object-to-an-array-in-php/)
+- [PHP or NodeJS](https://www.codingninjas.com/blog/2020/12/30/php-or-node-js-the-right-technology-for-your-project/)
+- [Create a responsive website using Bootstrap](https://www.codingninjas.com/blog/2020/12/08/creating-a-responsive-website-using-bootstrap/)
+- [Build a responsive website using pure CSS](https://www.codingninjas.com/blog/2020/12/01/building-a-responsive-website-using-pure-css/)
+- [SQL and databases for web development](https://www.codingninjas.com/blog/2020/11/28/sql-databases-for-web-development/)
+- [Top 10 Web Development Learning Projects and their Execution](https://www.codingninjas.com/blog/2020/11/17/top-10-web-development-projects-their-execution/)
+- [Landing Page: The Right UI/UX and Features](https://www.codingninjas.com/blog/2020/11/11/landing-page-the-right-ui-ux-features/)
+- [How to create a quiz in JavaScript?](https://www.codingninjas.com/blog/2020/11/03/how-to-create-a-quiz-in-javascript/)
+<!-- BLOG-POST-LIST:END -->
+</td>
+<td valign="top" width="50%">
+
+### My Latest Achievements 🏆
+- Winner of BitBox Hackathon 2021 (Best All Girls Team)
+- Winner of Sparkathon 2021 (Jury Award) 
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📊 Github Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pooja-gera&show_icons=true&theme=gotham" alt="Pooja Gera | Stats" />
+
+</details>
 
 
-### Who am I? 
+![Visitor Count](https://profile-counter.glitch.me/{pooja-gera}/count.svg)
 
-I am a B.Tech(IT) student at IGDTUW who works to make her dreams come true in reality.
-I have gained industrial exposure during the first year of my graduation by working with The Education Tree as a member in their content development team.
-I have a diverse skill set which includes web design and development, machine learning, data analysis and visualisation, public speaking, graphic designing, content management and social media marketing.
-I also possess leadership skills which I exhibit being an active Rotaractor at Rotaract Club of Delhi Philanthropists where I am serving as the Club Secretary for Rota Year 2020-21.
-In addition to building solutions for making lives easier by improvising technology, I also help the community as and whenever I can. 
+[twitter]: https://twitter.com/poojagera0_0
+[gmail]: developergera@gmail.com
+[linkedin]: https://www.linkedin.com/in/pooja-gera/
+[Medium]: https://developergera.medium.com/
+[Instagram]: https://www.instagram.com/pooojagera
 
-### My positions of responsibility: 
-
-    👽 Co-Creator, The WireUs Challenge www.thewireuschallenge.com 
-    👽 Project Coordinator (ML/AI), DSC IGDTUW
-    👽 Mentor, Web Development, LeanIN IGDTUW
-    👽 Secretary, Rotaract Club of Delhi Philanthropists
-
-
-### I am currently working on:
-   :point_right:The WireUs Challenge, a hundred day challenge offered in 12 domains of development and design.
-   
-   :point_right: Finding a way to retain the knowledge of my third semester for life.
-   
-### I am currently learning 
-   
-   Learning never stops, you start learning right from the day you are born. Learning is not restricted to academic or professional skills but also essential values and life   skills.
-   
-   📚 German. I am quite fascinated by this language. I got a chance to take up a course of my own choice as a part of my third semester syllabus and I am grateful that NPTEL had this course to offer. 
-   
-   📚 Sanskrit. The language of the Indian scriptures, the language of the holy Vedas, the mother of all languages. I was introduced to this language when I was 11 years old and I studied it until I was 16. Five years of understanding the language by renowned professors, of participating and winning in various competitions and of exploring the beauty of each and every shloka, I was drawn to it like a moth was drawn to the bulb. Unfortunately, I went out of practice for two years. But now I am brushing my skills and concepts once again to come back stronger and sweep away all the awards that are there to win! 
-   
-   📚 Data Structures and Algorithms. First thought, why is it so hard and tricky? On a second thought, I felt maybe I am following a wrong approach. Now I have started with a great book (Data Structures using C and C++ by Yedidyah Langsam, Moshe J. Augenstein, Aaron M. Tenenbaum) and I think I will soon be able to add DSA to the skills I am pretty confident about. 
-   
-   
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
