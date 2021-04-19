@@ -57,6 +57,7 @@
 <td valign="top" width="50%">
 
 ### My Latest Achievements 🏆
+- 2nd Runner Up - STEMathon conducted by ACM IGDTUW under Advaya 2.0
 - Winner of BitBox Hackathon 2021 (Best All Girls Team)
 - Winner of Sparkathon 2021 (Jury Award) 
 
