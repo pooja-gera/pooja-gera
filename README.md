@@ -30,6 +30,7 @@
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [10 Best CSS Frameworks](https://www.codingninjas.com/blog/2021/04/15/10-best-css-frameworks-for-front-end-developers/)
 - [JSON vs XML](https://www.codingninjas.com/blog/2021/04/12/json-vs-xml-in-2021/)
 - [Elixir for Web Development](https://www.codingninjas.com/blog/2021/04/05/learning-elixir-for-web-development/)
 - [8 Beginner Mistakes to Avoid as a UI Designer](https://www.codingninjas.com/blog/2021/03/30/8-beginner-mistakes-to-avoid-as-a-ui-designer/)
