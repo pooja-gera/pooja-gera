@@ -60,6 +60,7 @@
 - 2nd Runner Up - STEMathon conducted by ACM IGDTUW under Advaya 2.0
 - Winner of BitBox Hackathon 2021 (Best All Girls Team)
 - Winner of Sparkathon 2021 (Jury Award) 
+- 2nd Position - Vices and Virtues (Cryptographic Treasure Hunt) conducted by Amity Youth Festival'21
 
 </td>
 </tr>
