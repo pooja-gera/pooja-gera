@@ -1,35 +1,51 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Pooja Gera
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/poojagera0_0])
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">](https://www.youtube.com/channel/UCsGz3EAKmIFe_Lm6Hl27zNg)
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pooja-gera/)
+<h1 align="center">Hi 👋, I'm Pooja Gera</h1>
+<h3 align="center">Web Developer | UI Designer | Community Leader</h3>
 
-### My Tech Toolbox 🧰
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-gera&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-gera" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pooja-gera" alt="pooja-gera" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/poojagera0_0" target="blank"><img src="https://img.shields.io/twitter/follow/poojagera0_0?logo=twitter&style=for-the-badge" alt="poojagera0_0" /></a> </p>
+
+- 🌱 I’m currently learning **ReactJS**
+
+- 💬 Ask me about **Web Development, Design and Public Speaking**
+
+- 📫 Reach out to me at **developergera@gmail.com**
+
+- * My primary coding and problem solving language: C++
+
+- I give back to the community I have gained so much from. 
+
+- I write technical articles in a fun way.
+
+- I am a rotaractor and I volunteer for community service events. 
+
+- I will be happy to help you for your queries regarding web development. 
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/165px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" height="40"/>
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<a href="https://twitter.com/poojagera0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poojagera0_0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooja-gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooja-gera" height="30" width="40" /></a>
+<a href="https://instagram.com/pooojagera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooojagera" height="30" width="40" /></a>
+<a href="https://medium.com/@developergera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@developergera" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/pooja gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pooja gera" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/poojagera0_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="poojagera0_0" height="30" width="40" /></a>
 </p>
 
-* My primary coding and problem solving language: C++
-* Three things that summarize my tech interests: Web Development | UI/UX Designing | Blockchain 
-* I give back to the community I have gained so much from. 
-* I write technical articles in a fun way.
-* Join my community on Avalon Voices - [Pooja's Pondering Pond](https://avalon-voices.app.link/3WIwewQWofb) (Application available for Android only for now.)
-* Join my [Telegram Channel](https://t.me/ponderingpondwithpooja).
-* I am a rotaractor and I volunteer for community service events. 
-* I will be happy to help you for your queries regarding web development. 
-* I am currently learning blockchain and am looking to collaborate with people for blockchain projects. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja-gera&show_icons=true&locale=en" alt="pooja-gera" /></p>
 
 <table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
 <!-- BLOG-POST-LIST:START -->
+- [HTML vs CSS: What's The Difference?](https://www.codingninjas.com/blog/2021/05/26/html-vs-css-whats-the-difference/)
+- [HTML Tags For Beginners: Your Preparation Cheatsheet](https://www.codingninjas.com/blog/2021/05/10/html-tags-for-beginners-your-preparation-cheat-sheet/)
+- [Top 20 Javascript Libraries You Should Know](https://www.codingninjas.com/blog/2021/04/19/top-20-javascript-libraries-to-learn-in-2021/)
 - [10 Best CSS Frameworks](https://www.codingninjas.com/blog/2021/04/15/10-best-css-frameworks-for-front-end-developers/)
 - [JSON vs XML](https://www.codingninjas.com/blog/2021/04/12/json-vs-xml-in-2021/)
 - [Elixir for Web Development](https://www.codingninjas.com/blog/2021/04/05/learning-elixir-for-web-development/)
@@ -78,12 +94,7 @@
   - Team: Celestial Biscuit (Pooja Gera, Nishtha Goyal, Abhigya Verma) 
   - [CarbSafe Trailer](https://www.youtube.com/watch?v=72lsK81vfPo) 
 
-</td>
-<td valign="top" width="50%">
-  
-  ### Session Recaps on Pooja's Pondering Pond @ScenesByAvalon 🔮
-</td>
-  </tr>
+</tr>
 </table>
 
 <details>
