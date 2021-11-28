@@ -26,6 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Thank-you @tech_phantoms for this 😭 I wanted exactly this, y&#39;all are mind readers no cap. Glad to know your goal is to multiply your attendees&#39; knowledge, can&#39;t wait for API Hacks 3.0 next year 🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c79da100c9764dd6ae1ca107d11893acc)
+- [@poojagera0_0: I just drew this too proud of my drawing and felt like sharing it here. What my dad did when he came to know I developed kidney stones due to the problems in the city&#39;s water supply: &lpar;1 like = 1 prayer for the bechara water purifier&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7fd812069069d36ce3c0177d1d8233c3)
+- [@poojagera0_0: What&#39;s the best thing about technology according to you? For me, it is the absence of &#39;impossible&#39;. Got a dream? A problem? A solution? *cue technical tools saying &#39;you&#39;ve got a friend me&#39;*.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66f75da100d9165d461e5cb107d108332c3)
+- [@poojagera0_0: Okay, I like this very much 👀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66f7bde1c099b62d76be3cb1b73138b3cc1)
+- [@imabptweets: 👋 Hey folks! Have you won a big hackathon? Assuming, you are true to yourself, but the hackathon staff has to do their job, and they are performing cheating checks and cross questions, post.Here is what you should be doing, to make it a hassle-free experience🧵1/6#hackathon](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632b3e3d2f6901f80927488f10ba4482c9bc169f7a76f7bdf150a9b64dc6ee8c31479138e3c)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
