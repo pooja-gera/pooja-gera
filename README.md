@@ -39,6 +39,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooja-gera&show_icons=true&locale=en" alt="pooja-gera" /></p>
 
+[![Spotify](https://spotify-now-playing-lime.vercel.app/api/spotify)](https://open.spotify.com/user/hrd0mzp0iuwsfqonn3w4j18d5)
+
 <table><tr><td valign="top" width="50%">
 
 ### My Latest Blog Posts 🌱
