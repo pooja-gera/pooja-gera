@@ -23,6 +23,10 @@
 
 - I will be happy to help you for your queries regarding web development. 
 
+### 📱 Latest Tweets
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
