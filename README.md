@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@gdsc_svpcet: Thumbs up 👍 with @poojagera0_0 on Application programming interface! 🤩 Make sure you join us in this journey and get a hands on experience yourself! 😎Date: 3rd decTime: 5PMRegister here:  #gdsc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183ba1e2fdf1910a86837388f10ba4482c9bc169f7a46c7ddf17099561d568e1c2167b108e3e)
+- [@Lean_In_IGDTUW: Greetings Techies! To promote API literacy among budding developers, we are bringing an extensive hands-on workshop on the topic API 101 with @getpostman with the support of LeanIn IGDTUW, GDSC IGDTUW, What the Hack, and GDSC SVPCET. #API #postman](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e333ab3effdcb8925aca143f3d728ea4f2d899a2db0bd6b79d911069065d268e0c6157d13893bc36783)
 - [@poojagera0_0: 📆 Date: 03rd December 2021⏰ Timings: 05:00 PM onwards👀 Duration: 90 minutes 🐣 Agenda and Pre-requisites: 🔗 Registration Form:  #PostmanAPI #API101](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c78d614099561d56ce9c2117c178c3dc4)
 - [@poojagera0_0: Tech Phantoms Maintainers Program 2021 [Deadline to Apply: 01st December 2021]{ by Pooja Gera } from @hashnode#opensource #community #technology #softwaredevelopment #webdevelopment](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c78d91c069060d061e7ca117c13833dc0)
 - [@poojagera0_0: Thank-you @tech_phantoms for this 😭 I wanted exactly this, y&#39;all are mind readers no cap. Glad to know your goal is to multiply your attendees&#39; knowledge, can&#39;t wait for API Hacks 3.0 next year 🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c79da100c9764dd6ae1ca107d11893acc)
-- [@poojagera0_0: I just drew this too proud of my drawing and felt like sharing it here. What my dad did when he came to know I developed kidney stones due to the problems in the city&#39;s water supply: &lpar;1 like = 1 prayer for the bechara water purifier&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7fd812069069d36ce3c0177d1d8233c3)
-- [@poojagera0_0: What&#39;s the best thing about technology according to you? For me, it is the absence of &#39;impossible&#39;. Got a dream? A problem? A solution? *cue technical tools saying &#39;you&#39;ve got a friend me&#39;*.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66f75da100d9165d461e5cb107d108332c3)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
