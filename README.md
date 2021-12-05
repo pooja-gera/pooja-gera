@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Took my first &quot;APIs 101 with Postman&quot; workshop today! Had such an amazing turnout and super amazing participants! More to come! 🚀Big thanks to @getpostman @Aanchalmishra__ @ialimustufa for giving me this opportunity!#PostmanStudent #PostmanAPI #API101](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7bd81d0c9b68d06ae2ca137b108b3dc0)
+- [@poojagera0_0: Give a caption for this:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7bd91c0a9568d26be8c7127a168d3ac5)
+- [@poojagera0_0: The stories and amount of people who were able to follow their passion and start a side hustle because they had extra time due to the pandemic makes me believe in the fact of good and bad co-existing even more. More power to everyone! ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7bd91c0b9368d76ee1ca137d10833dc0)
 - [@gdsc_svpcet: Thumbs up 👍 with @poojagera0_0 on Application programming interface! 🤩 Make sure you join us in this journey and get a hands on experience yourself! 😎Date: 3rd decTime: 5PMRegister here:  #gdsc](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183ba1e2fdf1910a86837388f10ba4482c9bc169f7a46c7ddf17099561d568e1c2167b108e3e)
 - [@Lean_In_IGDTUW: Greetings Techies! To promote API literacy among budding developers, we are bringing an extensive hands-on workshop on the topic API 101 with @getpostman with the support of LeanIn IGDTUW, GDSC IGDTUW, What the Hack, and GDSC SVPCET. #API #postman](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e333ab3effdcb8925aca143f3d728ea4f2d899a2db0bd6b79d911069065d268e0c6157d13893bc36783)
-- [@poojagera0_0: 📆 Date: 03rd December 2021⏰ Timings: 05:00 PM onwards👀 Duration: 90 minutes 🐣 Agenda and Pre-requisites: 🔗 Registration Form:  #PostmanAPI #API101](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c78d614099561d56ce9c2117c178c3dc4)
-- [@poojagera0_0: Tech Phantoms Maintainers Program 2021 [Deadline to Apply: 01st December 2021]{ by Pooja Gera } from @hashnode#opensource #community #technology #softwaredevelopment #webdevelopment](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c78d91c069060d061e7ca117c13833dc0)
-- [@poojagera0_0: Thank-you @tech_phantoms for this 😭 I wanted exactly this, y&#39;all are mind readers no cap. Glad to know your goal is to multiply your attendees&#39; knowledge, can&#39;t wait for API Hacks 3.0 next year 🎉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c79da100c9764dd6ae1ca107d11893acc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
