@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: Which tech community do you absolutely love being at? Looking to join some and contribute 👀Drop here 👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7add150d9765d66ee7c4157b118f3bcc)
-- [@poojagera0_0: PS. If you know any good places where I can buy clothes for street dogs in Delhi, lmk in DMs, thanks!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ade160c9363d161e4cb1b7c1c8e3bc1)
-- [@poojagera0_0: Here is Benji in the snuggling spot he dug 🥺Backstory: There was a pup all alone in my area and I kinda felt his pain so I gave him 🥛 everyday and we became bestfriends and now he&#39;s the gang leader of all the dogs here 😂Who is your favorite street dog best friend? ☕](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ade160d9b66dc60e0c1167b178d3fcd)
-- [@ChristinaPhy20: making a twitter group for tech background folks. Just like/RT and and i will add you](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3c37a0e8d1f68e1484b66fdeb04fea4f2d899a2db0bd6b79d9130e9269d26de8c1107e1d823ec56389)
-- [@poojagera0_0: The best part of my day these days is watching Black Clover 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ade14069763dd6ce9c41278128f33c7)
+- [@poojagera0_0: 12. Isha Dagar](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ad710099665d46be4cb1a7a118d33c3)
+- [@poojagera0_0: 11. Sanskriti Agarwal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ad710099664dc6ae1c11b7a1c833fcd)
+- [@poojagera0_0: 10. Anjali Jha](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ad710099664d36de1c01573138b3cc2)
+- [@poojagera0_0: 9. Nandini Kumar](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ad710099664d669e6c4147e10833ec6)
+- [@poojagera0_0: 8. Manika Joshi &lpar;love the creativity&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c7ad710099664d568e1c71a7a148a33c4)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
