@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: *crying brb* We are the 2nd Runner Ups of Flipkart GRiD 3.0 😭🥺.Lysm Nishtha, Gaurisha 😋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7edd170d9b60d060e9c01779178d3fcc)
-- [@poojagera0_0: ༎ຶ‿༎ຶ](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c74de1d0c9a64d66ce5c1137f1c833bc5)
-- [@poojagera0_0: Question What do y&#39;all do with the dresses you buy for the wedding season after you&#39;ve worn them?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c74df17089063d76ce7ca14721d8a38c2)
-- [@poojagera0_0: I really like bakeries You find hidden surprises there, sweets you never knew existed and when you munch em - ✨B.L.I.S.S✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c75d6150e9b62d36de6c6117a1d8d3ac2)
-- [@poojagera0_0: You&#39;re amazing just the way you are 🦄✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66c75d717069367dd6fe8c7157d13833ac7)
+- [@poojagera0_0: Was just wondering about what happened to reading print magazines and buying subscriptions and waiting every month for a new issue and the urge to go back to 2010 is so strong right now.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78d91d0c9365d16de2c3127f138f39cc)
+- [@poojagera0_0: 2022. Spread The Word. Appreciate all the support 🙌#2022Goals #TheBinaryHeart](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67dd6de6ca10721c8333c6)
+- [@poojagera0_0: There are stories that I would like to bring to the world, stories that would make a chill run down your spine but at the same time fuel you to be someone who brings change. I would start off 2022 with one of the most important stories - &quot;I am a weed&quot;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d36de3c5107c128b38c7)
+- [@poojagera0_0: The Binary Heart is going to be a saga of how and why listening to your heart and loving people is important for #life, #tech, life in tech and tech in life. It will teach you to be crazy, to be so full of spirits that you become unstoppable.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d16ce4cb177f1d8d32c3)
+- [@poojagera0_0: I guess months of talking to people and spreading what I know @ScenesByAvalon did the trick.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d460e6c3147c128f3acc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
