@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Still can&#39;t wrap my finger around the fact that people buy expensive cakes only to use it as a facepack for the birthday person ⚔️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bda16089269d66ee2c21b7312893fc0)
+- [@poojagera0_0: The &quot;slaayyyyyyyyy&quot; audio scares me.Everytime.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bde1c0f9265dc6ee9c4117a128b38cc)
+- [@DeekshitaVerma: Our generation has glorified hustle culture to an extent where everyone wants to replicate it. But what is the reality behind it? Is it actually good for you or not? Here&#39;s my take on the Modern Hustle Culture. Listen to the podcast to know more...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b3ab7ead1ea8e0e84b062d5ef1eea4f2d899a2db0bd6b79d8120f9463d06ce9c11a7f1d883acd6781)
 - [@poojagera0_0: Was just wondering about what happened to reading print magazines and buying subscriptions and waiting every month for a new issue and the urge to go back to 2010 is so strong right now.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78d91d0c9365d16de2c3127f138f39cc)
 - [@poojagera0_0: 2022. Spread The Word. Appreciate all the support 🙌#2022Goals #TheBinaryHeart](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67dd6de6ca10721c8333c6)
-- [@poojagera0_0: There are stories that I would like to bring to the world, stories that would make a chill run down your spine but at the same time fuel you to be someone who brings change. I would start off 2022 with one of the most important stories - &quot;I am a weed&quot;.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d36de3c5107c128b38c7)
-- [@poojagera0_0: The Binary Heart is going to be a saga of how and why listening to your heart and loving people is important for #life, #tech, life in tech and tech in life. It will teach you to be crazy, to be so full of spirits that you become unstoppable.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d16ce4cb177f1d8d32c3)
-- [@poojagera0_0: I guess months of talking to people and spreading what I know @ScenesByAvalon did the trick.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78de16079b67d460e6c3147c128f3acc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
