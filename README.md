@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: I love accordions 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ada150c9b66d060e1c31a78108f32c2)
+- [@poojagera0_0: Why do all the expensive wedding lehngas &lpar;irrespective of being in thousands, lakhs or crores&rpar; look the same to me o.O](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7adc150c9a64d36fe4c3137d148839c6)
 - [@poojagera0_0: Just got my new year eve plan I was extremely excited about cancelled. I&#39;ll be sitting in the corner staring at the wall till further notice.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bd7110b9565d76de0c31778118a3bc3)
 - [@poojagera0_0: Still can&#39;t wrap my finger around the fact that people buy expensive cakes only to use it as a facepack for the birthday person ⚔️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bda16089269d66ee2c21b7312893fc0)
 - [@poojagera0_0: The &quot;slaayyyyyyyyy&quot; audio scares me.Everytime.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bde1c0f9265dc6ee9c4117a128b38cc)
-- [@DeekshitaVerma: Our generation has glorified hustle culture to an extent where everyone wants to replicate it. But what is the reality behind it? Is it actually good for you or not? Here&#39;s my take on the Modern Hustle Culture. Listen to the podcast to know more...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3b3ab7ead1ea8e0e84b062d5ef1eea4f2d899a2db0bd6b79d8120f9463d06ce9c11a7f1d883acd6781)
-- [@poojagera0_0: Was just wondering about what happened to reading print magazines and buying subscriptions and waiting every month for a new issue and the urge to go back to 2010 is so strong right now.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d78d91d0c9365d16de2c3127f138f39cc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
