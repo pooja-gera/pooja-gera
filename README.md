@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Saw the news for another variant of Covid in France, are things really gonna be okay?I&#39;m super scared](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d75dc14079464d768e4c31673178d3fcc)
+- [@poojagera0_0: comments 🤯Adding here for everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d75df150a9161d66ce0c4157d178832c7)
+- [@poojagera0_0: 2022 is already better 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ad6110e9a67dd6ee0c1107d108833c0)
+- [@poojagera0_0: Created a Telegram group a while ago for sharing good quality handpicked tech resources and it has so far benefitted 300+ students. 🥳In case you are interested to join in and get updates, drop a 🐼 and I&#39;ll DM you the link. 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ad71d079268dd61e7c5107a1d893bc5)
 - [@poojagera0_0: I love accordions 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ada150c9b66d060e1c31a78108f32c2)
-- [@poojagera0_0: Why do all the expensive wedding lehngas &lpar;irrespective of being in thousands, lakhs or crores&rpar; look the same to me o.O](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7adc150c9a64d36fe4c3137d148839c6)
-- [@poojagera0_0: Just got my new year eve plan I was extremely excited about cancelled. I&#39;ll be sitting in the corner staring at the wall till further notice.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bd7110b9565d76de0c31778118a3bc3)
-- [@poojagera0_0: Still can&#39;t wrap my finger around the fact that people buy expensive cakes only to use it as a facepack for the birthday person ⚔️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bda16089269d66ee2c21b7312893fc0)
-- [@poojagera0_0: The &quot;slaayyyyyyyyy&quot; audio scares me.Everytime.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7bde1c0f9265dc6ee9c4117a128b38cc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
