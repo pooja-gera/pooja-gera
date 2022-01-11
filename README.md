@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: So I came across this video by @arsh_goyal about the #ReviseWithArsh #6Companies30Days Challenge. Completely amazed by the things devs do for the community. Oh and, check out the questions - they&#39;re absolutely amazing. I&#39;m gonna go do them and 10/10 recommended for y&#39;all too ^.^](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74d716089b62d76ce8c3107c1d883dcc)
+- [@poojagera0_0: How do I make you love me, you take my breath away but I am out of time and we are best friends. Is there someone else? You got the precious starry eyes, please don&#39;t break my heart. Damn, every angel is terrifying. #DawnFM @theweeknd ❤️🥺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74da11099060d36ee8c01073108f3ac2)
 - [@poojagera0_0: Saw the news for another variant of Covid in France, are things really gonna be okay?I&#39;m super scared](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d75dc14079464d768e4c31673178d3fcc)
 - [@poojagera0_0: comments 🤯Adding here for everyone!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d75df150a9161d66ce0c4157d178832c7)
 - [@poojagera0_0: 2022 is already better 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ad6110e9a67dd6ee0c1107d108833c0)
-- [@poojagera0_0: Created a Telegram group a while ago for sharing good quality handpicked tech resources and it has so far benefitted 300+ students. 🥳In case you are interested to join in and get updates, drop a 🐼 and I&#39;ll DM you the link. 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ad71d079268dd61e7c5107a1d893bc5)
-- [@poojagera0_0: I love accordions 🥺❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d7ada150c9b66d060e1c31a78108f32c2)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
