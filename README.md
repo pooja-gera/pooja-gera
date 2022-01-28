@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Thank-you @SawoLabs 😍🚀#Be_UnAUTHodox #SAWOman #SAWO_Community](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6627bdd17089468d768e1ca127813883cc3)
 - [@poojagera0_0: Flipkart GRiD 3.0 goodies are in! 🥺❤️Thank-you @Flipkart 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66278d6100e9164d66ce0c2167d1c833dc3)
 - [@GDSC_IGDTUW: GDSC IGDTUW is back with an amazing hands-on session on &quot;INTRODUCTION TO GIT &amp; GITHUB&quot; by @poojagera0_0, Technical Lead at GDSC IGDTUW, and @GunjanG_12, Open Source Lead at GDSC IGDTUW.Catch them on 21st January 2022, 5 PM✨Register at:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e381b81c2fdcba03eb1b35088f10ba4482c9bc169f7aa697edd120c9166d568e3c01b731c8339)
 - [@poojagera0_0: So I came across this video by @arsh_goyal about the #ReviseWithArsh #6Companies30Days Challenge. Completely amazed by the things devs do for the community. Oh and, check out the questions - they&#39;re absolutely amazing. I&#39;m gonna go do them and 10/10 recommended for y&#39;all too ^.^](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74d716089b62d76ce8c3107c1d883dcc)
 - [@poojagera0_0: How do I make you love me, you take my breath away but I am out of time and we are best friends. Is there someone else? You got the precious starry eyes, please don&#39;t break my heart. Damn, every angel is terrifying. #DawnFM @theweeknd ❤️🥺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74da11099060d36ee8c01073108f3ac2)
-- [@poojagera0_0: Saw the news for another variant of Covid in France, are things really gonna be okay?I&#39;m super scared](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d75dc14079464d768e4c31673178d3fcc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
