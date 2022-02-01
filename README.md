@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: 👿 2022: I&#39;ll be the same ol&#39; story, stay inside, no fun for you. 🧑‍🚀 Postman Student Community: *laughs* aise kaise? HAD THE BEST DAYYYY!! Played tag after 10 years 🥺#APIFest was gold 🥇Thank-you @ialimustufa and @Aanchalmishra__ for the fun, food and furniture 😂🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6627ad7160a9766d261e2cb1a79178d3acd)
+- [@imabptweets: The money spent on JEE / NEET prep, can be useful to buy yourself a macbook, and become financially independent by 20. :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632b3e3d2f6901f80927488f10ba4482c9bc169f7aa6d7adf100a9062dc60e4c111721d8b3d)
 - [@poojagera0_0: Thank-you @SawoLabs 😍🚀#Be_UnAUTHodox #SAWOman #SAWO_Community](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6627bdd17089468d768e1ca127813883cc3)
 - [@poojagera0_0: Flipkart GRiD 3.0 goodies are in! 🥺❤️Thank-you @Flipkart 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66278d6100e9164d66ce0c2167d1c833dc3)
 - [@GDSC_IGDTUW: GDSC IGDTUW is back with an amazing hands-on session on &quot;INTRODUCTION TO GIT &amp; GITHUB&quot; by @poojagera0_0, Technical Lead at GDSC IGDTUW, and @GunjanG_12, Open Source Lead at GDSC IGDTUW.Catch them on 21st January 2022, 5 PM✨Register at:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e381b81c2fdcba03eb1b35088f10ba4482c9bc169f7aa697edd120c9166d568e3c01b731c8339)
-- [@poojagera0_0: So I came across this video by @arsh_goyal about the #ReviseWithArsh #6Companies30Days Challenge. Completely amazed by the things devs do for the community. Oh and, check out the questions - they&#39;re absolutely amazing. I&#39;m gonna go do them and 10/10 recommended for y&#39;all too ^.^](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74d716089b62d76ce8c3107c1d883dcc)
-- [@poojagera0_0: How do I make you love me, you take my breath away but I am out of time and we are best friends. Is there someone else? You got the precious starry eyes, please don&#39;t break my heart. Damn, every angel is terrifying. #DawnFM @theweeknd ❤️🥺](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66d74da11099060d36ee8c01073108f3ac2)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
