@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Thankyou so much @SawoLabs 🤩🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66378d8170b9762d16be0c21778148b3ec4)
 - [@poojagera0_0: Training myself to not say &quot;am I audible&quot; in offline classes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66379da170b9563d26de6c517731c8c38c2)
 - [@gdscwow: Introducing our speaker for WebKartik Derasari &lpar;@kartik_derasari&rpar;, Full Stack Developer @MediaAgilityIn #GDSCWOW they will be taking us through the topic of Web. We are thrilled to have them on board.Register Now:  #webdevelopment #Google](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183ba1e2d5ed9055969266d3f70cea0d6dd1da6af2aa6d7dde17099a61d66de0c311)
 - [@poojagera0_0: When @SawoLabs sends me food: #DeveloperChamp #SAWOCommunity 🍔🍟🥤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637ed71d0d9263d76ee3ca1b72128b32c2)
 - [@poojagera0_0: Got onboarded as the #DeveloperChamp for the second cohort of the SAWO Champs Program. It has been a day and I am already overwhelmed with the support from the community and the vibe! Thank-you so much @SawoLabs 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637ed71d0e9261d068e0cb177d138a3bc1)
-- [@poojagera0_0: Thank-you sooo much for these! @getpostman @ialimustufa @Aanchalmishra__ 🥺😍APIs to the moon! 🚀 🌝#PostmanStudent #PostmanStudentLeader](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637ede1d0c9368d46ce5c6147e1d893bc4)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
