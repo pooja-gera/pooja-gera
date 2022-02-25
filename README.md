@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: Thankyou so much @SawoLabs 🤩🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66378d8170b9762d16be0c21778148b3ec4)
-- [@poojagera0_0: Training myself to not say &quot;am I audible&quot; in offline classes](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a66379da170b9563d26de6c517731c8c38c2)
-- [@gdscwow: Introducing our speaker for WebKartik Derasari &lpar;@kartik_derasari&rpar;, Full Stack Developer @MediaAgilityIn #GDSCWOW they will be taking us through the topic of Web. We are thrilled to have them on board.Register Now:  #webdevelopment #Google](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e183ba1e2d5ed9055969266d3f70cea0d6dd1da6af2aa6d7dde17099a61d66de0c311)
-- [@poojagera0_0: When @SawoLabs sends me food: #DeveloperChamp #SAWOCommunity 🍔🍟🥤](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637ed71d0d9263d76ee3ca1b72128b32c2)
-- [@poojagera0_0: Got onboarded as the #DeveloperChamp for the second cohort of the SAWO Champs Program. It has been a day and I am already overwhelmed with the support from the community and the vibe! Thank-you so much @SawoLabs 😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637ed71d0e9261d068e0cb177d138a3bc1)
+- [@poojagera0_0: 9⃣ Join SAWO&#39;s discord community](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9666d561e6cb1472178e3cc7)
+- [@poojagera0_0: 8⃣ Register for Hack &#39;n&#39; Solve today! &#39;s Website:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665dd6fe0ca1b7d178c3ac0)
+- [@poojagera0_0: 7⃣ Here&#39;s the easy-to-read and pretty documentation:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d36ce2c5107f11823ec0)
+- [@poojagera0_0: 6⃣ I am using &lt;bhdioahdh&gt; tech-stack, can I use SAWO?You can integrate SAWO if you are using HTML, React, Vue, Angular, Flask, Node.js, Django, Laravel, Android, iOS, Flutter, React-Native, Ionic, Bubble, Wordpress, Electron.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d169e9c2157a1c8e32c0)
+- [@poojagera0_0: 5⃣ O-B-V-I-O-U-S-L-Y you can do it in that record time 🙄you are way more experienced. What am I supposed to do? Well, it was SAWO&#39;s documentation that made me implement it in such a short time. There are screenshots and code snippets to walk you through the entire process!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d461e7c31b78158c3cc3)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
