@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: 9⃣ Join SAWO&#39;s discord community](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9666d561e6cb1472178e3cc7)
-- [@poojagera0_0: 8⃣ Register for Hack &#39;n&#39; Solve today! &#39;s Website:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665dd6fe0ca1b7d178c3ac0)
-- [@poojagera0_0: 7⃣ Here&#39;s the easy-to-read and pretty documentation:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d36ce2c5107f11823ec0)
-- [@poojagera0_0: 6⃣ I am using &lt;bhdioahdh&gt; tech-stack, can I use SAWO?You can integrate SAWO if you are using HTML, React, Vue, Angular, Flask, Node.js, Django, Laravel, Android, iOS, Flutter, React-Native, Ionic, Bubble, Wordpress, Electron.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d169e9c2157a1c8e32c0)
-- [@poojagera0_0: 5⃣ O-B-V-I-O-U-S-L-Y you can do it in that record time 🙄you are way more experienced. What am I supposed to do? Well, it was SAWO&#39;s documentation that made me implement it in such a short time. There are screenshots and code snippets to walk you through the entire process!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bdb130b9665d461e7c31b78158c3cc3)
+- [@poojagera0_0: Hack &#39;n&#39; Solve registration link:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bd813089568d368e7ca1178108e32c6)
+- [@poojagera0_0: ✅ Build an aesthetic and minimalist note taking application](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bd8130d9667d561e2c212791c8e3fc2)
+- [@poojagera0_0: ✅ Redefine learning with an innovative learning system](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bd8130d9666dd60e1c11779108d3ac6)
+- [@poojagera0_0: ✅ Build chatrooms for students and communities](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bd8130d9666d36fe9c4127b138b3fc6)
+- [@poojagera0_0: ✅ Make an e-commerce application for uplifting small businesses](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a6637bd8130d9666d16ee1c21a7a1d8c3ac0)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
