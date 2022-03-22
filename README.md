@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@SawoLabs: HTTP or API or Plugin 🤔🤔 Which one are you gonna choose and why? Send it to a friend in tech and ask the same! 🤓#coder #technology #auth #softwaredeveloper](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea5eeeee38509ca9573c6f60ab61368ddde6cf4ab6275d7170d9267d16be3c71a7b)
-- [@poojagera0_0: Crunching dry leaves &gt;&gt;&gt;&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a79dc170f9b64d668e0cb1173168c33c3)
-- [@poojagera0_0: My talents include singing songs loudly in tune with absolutely incorrect lyrics](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a7ed612069a62d26ee7c61a7c178f3cc0)
-- [@poojagera0_0: Thank-you! @MicrosoftIndia 🚀Will try to do my bit as well in empowering every person and every organization on the planet to achieve more! ❤️Thank-you for bringing the Engage program, I saw exponential growth within myself 💪🏻 #microsoft #engageMentorshipProgram2021 #IGDTUW](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a7fde15069a62d768e3c61b79138938c3)
-- [@poojagera0_0: Do you turn your laptops off before going to sleep or are you a normal person?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a7cd817069563d76ce6cb1579138d3ac3)
+- [@poojagera0_0: Go mentor someone, even if it&#39;s only one person, make a dent in the universe by making a dent in someone&#39;s life! 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a78d8150e9367d56be5cb1b7a148b3acc)
+- [@poojagera0_0: Side-note: If you have a large group of mentees, surveys and feedback forms work realllyyyy well!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a78d8150e9366dd6be6ca147d14833dc0)
+- [@poojagera0_0: Exhibit B: Remember important things about them and make sure you are motivating them enough.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a78d8150e9366d368e3cb1a7d16823ac7)
+- [@poojagera0_0: Exhibit A: One of the most popular stickers I use 😂Translation: &quot;Go do coding&quot;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a78d8150e9365dc6fe3c71578138233cd)
+- [@poojagera0_0: 6️⃣ Build a relationship.I find this to be the most important aspect. You can also have a formal mentorship cohort but nothing beats spending a lil time w them, getting to know them, appreciating them. ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76a78d8150e9365d66be9c11b7e148838cc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
