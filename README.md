@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Planning / organizing an offline meet-up this week, genuinely questioning why did Anushka from band baaja baaraat had the dream of becoming a wedding planner. 🥹](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed6110e9361d269e9c11a7b1d8e38c2)
+- [@poojagera0_0: Trying something new on #techtwitter AMA about #Microsoft Engage ProgramComment section is open for y&#39;all 👇&lpar;Brought to you after being Inspired by @eddiejaoude &#39;s thoughts on &#39;who did you help today&#39;&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed6150d9560d068e1cb1773148b38c2)
+- [@poojagera0_0: Normal People: We went to / didn&#39;t go to Boho Bazaar Pooja: What was Boho Bazaar? 🥹Really need to get out of my room ASAP](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed814079465d06de6c5107210833fcd)
+- [@poojagera0_0: Poor UX in Nature: Seeds in Watermelon 🍉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7edb150f9b65d36ce3c1117f168b33c7)
 - [@poojagera0_0: this is a bot testing an API :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7fdb120b9165d769e5c3137316823cc3)
-- [@janm_uiux: Searching for your UX design mentor? Try the sites in the thread! 💜Retweets are highly appreciated!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e153ebcecfdf78e0f9dc974d3e30bb04f76d9db69f1a2697ede10079762d36ee6c212731c)
-- [@poojagera0_0: Shoutout to team @Taarangana_ for still putting up big smiles today, handling everything w Grace and running around ensuring everything goes smoothly 🍰Super f proud I share the same university w y&#39;all ❤️❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7cd8100c9b61d069e7cb147c1d883dc4)
-- [@SawoLabs: Be sure to double-check your codes folks! #developers #DEVCommunity #devlife](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ea5eeeee38509ca9573c6f60ab61368dddf69f5a0687fdc120a9569dc6be4ca1578)
-- [@poojagera0_0: What&#39;s up w stackoverflow 😂Who came up w this 😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7dde13099161d26fe4c71a7f148e3ac6)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
