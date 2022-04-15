@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: The question mark and the exclamation mark should not be together on keyboard. Lost count of the number of times my chonky thumbs have made a normal text sound rude xD Original text: Hey what&#39;s the update on this?Chonky thumb text: Hey what&#39;s the update on this?!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b79db130d9261dc6fe3c5117d128a3fc0)
+- [@imabptweets: Let&#39;s code better and faster with @getcodiga !!!Pairing up with our #devrel team at @getcodiga to show you some awesome hacks on your IDE using @getcodiga !! PS. We will be building a NextJS App using Codiga Cookbooks :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632b3e3d2f6901f80927488f10ba4482c9bc169f6a36e7fd8140c9369d16de3c61372148c32)
 - [@poojagera0_0: Finally! 😭🔮Thank-you @WhatsApp 💚](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b79de140e9666d06fe7c4137f108b3bc7)
 - [@poojagera0_0: Planning / organizing an offline meet-up this week, genuinely questioning why did Anushka from band baaja baaraat had the dream of becoming a wedding planner. 🥹](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed6110e9361d269e9c11a7b1d8e38c2)
 - [@poojagera0_0: Trying something new on #techtwitter AMA about #Microsoft Engage ProgramComment section is open for y&#39;all 👇&lpar;Brought to you after being Inspired by @eddiejaoude &#39;s thoughts on &#39;who did you help today&#39;&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed6150d9560d068e1cb1773148b38c2)
-- [@poojagera0_0: Normal People: We went to / didn&#39;t go to Boho Bazaar Pooja: What was Boho Bazaar? 🥹Really need to get out of my room ASAP](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ed814079465d06de6c5107210833fcd)
-- [@poojagera0_0: Poor UX in Nature: Seeds in Watermelon 🍉](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7edb150f9b65d36ce3c1117f168b33c7)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
