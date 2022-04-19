@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: She&#39;s a v sweet kid. If you see her anywhere pls lmk, my DMs are open. Thank-you 🙏](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bde16089b62d268e6ca1078108a3ac6)
+- [@poojagera0_0: Our team Celestial Biscuit is the WINNER of VMWare Campus Ambassador Program Virtual Hackathon!!! 😱❤️@RGaurisha and Nishtha are hands down the best teammates one can ask for 🥺Thankyou! @VMware 🦋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bdf140b9160d460e5c0157a128d33c5)
 - [@poojagera0_0: What&#39;s wrong w Uber? Had to pay double of the fare it showed while booking 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b78d8140e9169d36ae7c0157e10883bc2)
+- [@adithi_mallesh: This ad has so much impact on my brain that I still believe this is exactly how the Sun works.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5caebb817848a6bc2f117ea4f2d899a2db0bd6b78de11099460d06de7c410781c8f3cc16184)
 - [@poojagera0_0: Here&#39;s w the best juniors in the whole wide 🌎In-Frame: @AvniUplabdhee @IshitaS03 @simsam0502](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b78d9160d9760d668e5c611731c833cc5)
-- [@poojagera0_0: THIS IS SO TRUE! OMG](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b78dc1d0f9161d661e0c4107c148d3bc4)
-- [@poojagera0_0: So I thought, what can I do for the people who came today that reflects the respect and admiration I have for them? Boom come personalised letters and gifts 😏❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b78dc1c0d9160dd6ae8c61173138c3ac0)
-- [@poojagera0_0: Apt description of today 😂👇](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b78dc130c9565dc6ee5ca1779148a32c1)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
