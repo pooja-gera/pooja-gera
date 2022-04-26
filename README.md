@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: ❤️ wow.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df1c0c9266d76ae5ca1772138e3bc3)
+- [@poojagera0_0: If this community meet-up ain&#39;t the best thing that happened in the 3 &lpar;very&rpar; long years of my , I&#39;d totally be lying 😭🫧.Finally got the picture w you too @YajasSardana, getting this framed with the label &quot;bade log&quot; on it 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df130e9662d06ce6c21b721c8e39cd)
+- [@poojagera0_0: Watching how food is made in factories is oddly satisfying 🥺🫧](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ad8120b9b69d36ce7ca1a7d118b39c1)
 - [@poojagera0_0: Are you a student and curious about APIs?Join @ialimustufa, Student Community Lead @getpostman &amp; listen along to some of our fellow #PostmanStudent Leaders about their inspirational journeys, and how you can engage &amp; help your campus become API Literate!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7adf15079760d169e6c61b7c1d8b3cc7)
 - [@poojagera0_0: 🥺🚀 soooooo proud!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bd81c0c9565d461e9c11079108338cc)
-- [@poojagera0_0: Pulled an all nighter off after ages, it&#39;s crazy how your body just instantly cooperates and hippity-hoppities along when you&#39;re doing things you love doing 🛸👩🏻‍🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bda12079060d168e8c5107c11823bc1)
-- [@poojagera0_0: Word.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bdb170d9268dd6de5c1137f1c8b38c6)
-- [@poojagera0_0: *teary eyes* Thank-you @Meghna__Das_ and @SawoLabs for everything 😭❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7bdb16099a60d16fe8c6107b12893bcc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
