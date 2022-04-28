@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: MY GIRL IS DA BOMB 😍😍😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b74dc12099464dd6fe2c612781c8b3acd)
 - [@poojagera0_0: Bringing something new to IGDTUW ❤️Ft. @itischaitanya @VermaAbhigya @RGaurisha NishthaEntry through tickets only! Two step registration.Step 1:  2:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75d6120d9a65d569e8ca1a7d158339c1)
 - [@poojagera0_0: ❤️ wow.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df1c0c9266d76ae5ca1772138e3bc3)
 - [@poojagera0_0: If this community meet-up ain&#39;t the best thing that happened in the 3 &lpar;very&rpar; long years of my , I&#39;d totally be lying 😭🫧.Finally got the picture w you too @YajasSardana, getting this framed with the label &quot;bade log&quot; on it 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df130e9662d06ce6c21b721c8e39cd)
 - [@poojagera0_0: Watching how food is made in factories is oddly satisfying 🥺🫧](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7ad8120b9b69d36ce7ca1a7d118b39c1)
-- [@poojagera0_0: Are you a student and curious about APIs?Join @ialimustufa, Student Community Lead @getpostman &amp; listen along to some of our fellow #PostmanStudent Leaders about their inspirational journeys, and how you can engage &amp; help your campus become API Literate!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b7adf15079760d169e6c61b7c1d8b3cc7)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
