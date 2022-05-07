@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Looking forward to a great hackathon weekend with @_HashDefine and @MoralisWeb3 Thankyou @BudhirajaMadhav for having me! 🥁✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687fdd120f9767d769e2c0177e1c833ecc)
 - [@poojagera0_0: Celestial Biscuit IGDTUW Day 0 😈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b74d91c069567d16fe3c3137f148c38c2)
 - [@poojagera0_0: MY GIRL IS DA BOMB 😍😍😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b74dc12099464dd6fe2c612781c8b3acd)
 - [@poojagera0_0: Bringing something new to IGDTUW ❤️Ft. @itischaitanya @VermaAbhigya @RGaurisha NishthaEntry through tickets only! Two step registration.Step 1:  2:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75d6120d9a65d569e8ca1a7d158339c1)
 - [@poojagera0_0: ❤️ wow.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df1c0c9266d76ae5ca1772138e3bc3)
-- [@poojagera0_0: If this community meet-up ain&#39;t the best thing that happened in the 3 &lpar;very&rpar; long years of my , I&#39;d totally be lying 😭🫧.Finally got the picture w you too @YajasSardana, getting this framed with the label &quot;bade log&quot; on it 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75df130e9662d06ce6c21b721c8e39cd)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
