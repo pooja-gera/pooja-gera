@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Some unvisited places on the planet:1. YouTube watch later section 2. Instagram saved section](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ede130b9163d36ae2cb177b17883dc5)
+- [@bansal_pakhi: Me in the morning: Feel nahi aari, Raat ko padhenge.Me in the night: Neend aa rahi h, subah padhenge.Syllabus kab hoga?😭Please send some motivation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d3ebcf2c3eeb80a848d6fcead0cb15d2d9d9d77f2a7687edf150f9364d760e2c3147f168d39c0)
+- [@poojagera0_0: W everyone doing @arsh_goyal &#39;s #CrackYourInternship and #CrackYourPlacement challenge, Leetcode broke down 😂If this ain&#39;t an achievement, what is 🙌🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687fd610089665d66ce2c7147e128a32c7)
 - [@poojagera0_0: Live in 30 ⏰ See you there! @_HashDefine @MoralisWeb3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687fda15089560d46fe0c0137d10833dc1)
 - [@poojagera0_0: Looking forward to a great hackathon weekend with @_HashDefine and @MoralisWeb3 Thankyou @BudhirajaMadhav for having me! 🥁✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687fdd120f9767d769e2c0177e1c833ecc)
-- [@poojagera0_0: Celestial Biscuit IGDTUW Day 0 😈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b74d91c069567d16fe3c3137f148c38c2)
-- [@poojagera0_0: MY GIRL IS DA BOMB 😍😍😍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b74dc12099464dd6fe2c612781c8b3acd)
-- [@poojagera0_0: Bringing something new to IGDTUW ❤️Ft. @itischaitanya @VermaAbhigya @RGaurisha NishthaEntry through tickets only! Two step registration.Step 1:  2:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76b75d6120d9a65d569e8ca1a7d158339c1)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
