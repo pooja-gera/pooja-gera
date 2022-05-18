@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: Nothing teaches you permutations and combinations better than the trade off between your sleep and syllabus during exams 💀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76879df11099a66d36fe5cb1a7811893dc0)
-- [@poojagera0_0: *WhatsApp text reactions update*Me: Every app is Instagram now :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ed6130b9365d46ae5c2137311833ecd)
-- [@techinmartin: it’s nice to be important but it’s important to be nice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0b3ab1e9cbec8a1b97926ec9ad0cb15d2d9d9d77f2a7687eda1c0c9a67d360e3ca1179118333cc)
-- [@poojagera0_0: Some unvisited places on the planet:1. YouTube watch later section 2. Instagram saved section](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ede130b9163d36ae2cb177b17883dc5)
-- [@bansal_pakhi: Me in the morning: Feel nahi aari, Raat ko padhenge.Me in the night: Neend aa rahi h, subah padhenge.Syllabus kab hoga?😭Please send some motivation.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d3ebcf2c3eeb80a848d6fcead0cb15d2d9d9d77f2a7687edf150f9364d760e2c3147f168d39c0)
+- [@poojagera0_0: relationship update: everyone thinks we&#39;re dating except him &lt;3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd1c0d9464d16ae4c2127311883cc3)
+- [@poojagera0_0:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd130b9462d16ce4c3157f118c32c7)
+- [@poojagera0_0: &quot;achievement unlocked&quot; are my favorite kind of tweets on TwitterYES PERSON, YOU GO, DO MORE! ROOTING FOR YA! 🫶🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bde10069a68d76ee0c4177e158f39c1)
+- [@poojagera0_0: what is this obsession of ghosts with moving chairs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bde170e9063d16ce5c5167c128c3fc4)
+- [@poojagera0_0: how do I pack a small bag for travelling with this &quot;rakh leti hu kaam aega&quot; mentality !_!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76878d616069565d56de0c5177a128933cd)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
