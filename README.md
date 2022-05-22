@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: marks ke lie ladayi &gt;&gt;&gt; marks ke lie padhayi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ada1d079368d460e0c6107b148839c4)
 - [@poojagera0_0: 2&#39;s day 2eet 222 followers to 2 thousandNice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdc130b9762dd6ce0c5157f1c8232c6)
 - [@poojagera0_0: relationship update: everyone thinks we&#39;re dating except him &lt;3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd1c0d9464d16ae4c2127311883cc3)
 - [@poojagera0_0:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd130b9462d16ce4c3157f118c32c7)
 - [@poojagera0_0: &quot;achievement unlocked&quot; are my favorite kind of tweets on TwitterYES PERSON, YOU GO, DO MORE! ROOTING FOR YA! 🫶🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bde10069a68d76ee0c4177e158f39c1)
-- [@poojagera0_0: what is this obsession of ghosts with moving chairs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bde170e9063d16ce5c5167c128c3fc4)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
