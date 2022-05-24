@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: marks ke lie ladayi &gt;&gt;&gt; marks ke lie padhayi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ada1d079368d460e0c6107b148839c4)
-- [@poojagera0_0: 2&#39;s day 2eet 222 followers to 2 thousandNice](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdc130b9762dd6ce0c5157f1c8232c6)
-- [@poojagera0_0: relationship update: everyone thinks we&#39;re dating except him &lt;3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd1c0d9464d16ae4c2127311883cc3)
-- [@poojagera0_0:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bdd130b9462d16ce4c3157f118c32c7)
-- [@poojagera0_0: &quot;achievement unlocked&quot; are my favorite kind of tweets on TwitterYES PERSON, YOU GO, DO MORE! ROOTING FOR YA! 🫶🏻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687bde10069a68d76ee0c4177e158f39c1)
+- [@poojagera0_0: Starting my internship at @MicrosoftIndia today 😭❤️I still feel this is a dream, superrr excited 😍🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875db10069065d069e8c7137b1d883cc3)
+- [@poojagera0_0: The virtual event was sooooo good I&#39;m super excited to attend in-person.*Fingers crossed**Manifesting that my application gets accepted* &lpar;☔ Purple umbrella for good luck&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875db170b9766d269e2c3117c1d8c3ac1)
+- [@poojagera0_0: The only right way to do it 😂✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875df12089069dd6ee5cb127b1c8a39cd)
+- [@poojagera0_0: Yes ༎ຶ‿༎ຶ](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ad610079b62dd69e1c514731d8233c1)
+- [@poojagera0_0: Transitioned to final year today 🤍Surreal 🍭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ad617089762d06ae0c0157b168c39c5)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
