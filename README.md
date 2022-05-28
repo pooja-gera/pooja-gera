@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Sanskriti__A: Why you should work on aesthetics of your product:  version A 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebcf2c9f08e0e8cb958e6ad0cb15d2d9d9d77f2a76874d710069b66d66de6cb117d1d8f3cc6)
+- [@poojagera0_0: Happy Birthday @siddharth_hacks 🎂@ishubhamsah editing 🔝😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76874d913069763d760e8c5147a178339c2)
+- [@poojagera0_0: Gave the monthly reading task 3 days ago and she already did it, wowwww, @cbigdtuw kids &gt;&gt;&gt;&gt;&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76874d912089767d16be3c21073118d32c3)
+- [@IshitaS03: Incorporating tech in various aspects of life intrigues me, came across an interesting study, sharing it below:How can nanotechnology serve tattooing? If tattoo is a bunch of particles under the skin, can we swap these particles out, that could do something, give superpowers...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e362cbae8d6e3b44ad6c974d3e30bb04f76d9db6afaa76875d9100e9665d660e5c0137c13)
 - [@poojagera0_0: Starting my internship at @MicrosoftIndia today 😭❤️I still feel this is a dream, superrr excited 😍🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875db10069065d069e8c7137b1d883cc3)
-- [@poojagera0_0: The virtual event was sooooo good I&#39;m super excited to attend in-person.*Fingers crossed**Manifesting that my application gets accepted* &lpar;☔ Purple umbrella for good luck&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875db170b9766d269e2c3117c1d8c3ac1)
-- [@poojagera0_0: The only right way to do it 😂✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875df12089069dd6ee5cb127b1c8a39cd)
-- [@poojagera0_0: Yes ༎ຶ‿༎ຶ](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ad610079b62dd69e1c514731d8233c1)
-- [@poojagera0_0: Transitioned to final year today 🤍Surreal 🍭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7687ad617089762d06ae0c0157b168c39c5)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
