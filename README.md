@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Being a developer is an adventure sport](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697ddd100d9b69d160e0c31b7a148a3fc1)
 - [@Sanskriti__A: Why you should work on aesthetics of your product:  version A 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c3ebcf2c9f08e0e8cb958e6ad0cb15d2d9d9d77f2a76874d710069b66d66de6cb117d1d8f3cc6)
 - [@poojagera0_0: Happy Birthday @siddharth_hacks 🎂@ishubhamsah editing 🔝😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76874d913069763d760e8c5147a178339c2)
 - [@poojagera0_0: Gave the monthly reading task 3 days ago and she already did it, wowwww, @cbigdtuw kids &gt;&gt;&gt;&gt;&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76874d912089767d16be3c21073118d32c3)
 - [@IshitaS03: Incorporating tech in various aspects of life intrigues me, came across an interesting study, sharing it below:How can nanotechnology serve tattooing? If tattoo is a bunch of particles under the skin, can we swap these particles out, that could do something, give superpowers...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e362cbae8d6e3b44ad6c974d3e30bb04f76d9db6afaa76875d9100e9665d660e5c0137c13)
-- [@poojagera0_0: Starting my internship at @MicrosoftIndia today 😭❤️I still feel this is a dream, superrr excited 😍🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76875db10069065d069e8c7137b1d883cc3)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
