@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Broooo 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cd91d079760d76ce5c4127a128e3ac7)
+- [@bansal_pakhi: This one is for all the interns and SDEs out there. My manager gave me some tips on how to be wholesome software engineer, wanted to share it with everyone. A thread 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d3ebcf2c3eeb80a848d6fcead0cb15d2d9d9d77f2a7697cd915079168d461e6c2147a10893cc1)
+- [@VermaAbhigya: It makes me ecstatic to share that my Research Paper,  got published in the reputed journal of @springernature, Social Network, and Analysis&lpar;SNAM&rpar;.#connections #technology #research #share #network #publishing](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e293aa0ecc3c385128c817ec6ad0cb15d2d9d9d77f2a7697cda17079560d06de6c61a791c8b38c7)
 - [@poojagera0_0: Met @siddharth_hacks for just few hours but already know that this guy is a genius, everything is so on-point when you&#39;re around him. Bad jokes? Done. Awesome presentation? Done. Rajma Chawal? Done. Getting the best minds together? Done. &lpar;He&#39;s v protective of his plushies tho&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cdd140f9363d76be1c2167b108c38c3)
 - [@sivsouvam: Collated a few amazing community resources frameworks, resources &amp; tools to boost up your Community Professional Journey:🔎 Community OS by @ThreadoHQ &lpar;800+ resources&rpar;🔎 Community Canvas by @pforti &lpar;Frameworks&rpar;🔎 Community Master by @buildonscenes &lpar;Guidebook&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36a4f2cdf7911b88c974d3e30bb04f76d9db6bf2a36c7ad6100c9368d46ce2cb107816)
-- [@poojagera0_0: cc: hackathon organizers This is some next level thinking right here](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cde15099669d46ce1c6127b178838c5)
-- [@poojagera0_0: This is 😭😭😭😭Waited an entire year for this!!! See you thereee! @GHFieldDayIndia #PotatoSupremacy](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cde150a9467d068e2c51273178d3fcd)
-- [@poojagera0_0: Team @hackthisfall &gt;&gt;&gt;&gt;&gt; Had such a great time catching up w everyone and discovering new stuff ❤️Really grateful to @siddharth_hacks for the invite, gonna put this on my wall of &#39;things I&#39;m proud of&#39; now 🥺🌍](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697dd91d0b9762d26be9c01b73148d3bcd)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
