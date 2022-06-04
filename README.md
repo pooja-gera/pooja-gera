@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@imvishp: 5 most important lessons, this book taught me 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632a4e8d1ea9755969266d3f70cea0d6cdbdc6ff0a36d7ddc1c0c9261dd6be2c412)
+- [@cbigdtuw: We thank the team of @hackthisfall for extending the invite to our members for Hack this fall:Delhi Meet-up, on April 28th and are proud of our Meridians @aditi_11898 @_kaurJasleen @iaakritimalla for taking the initiative and representing the values of the club wholeheartedly 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3dbbe6c6f6920dca9573c6f60ab61368dddd6af5a2697ddf140f9569d66ee4c5147b)
+- [@poojagera0_0: *melts* Thankyouuuu soooo muchhhh! 🥺🌻And you&#39;re more awesome than I am, thankyou for all the wonderful hacks 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697fde130f9168d369e0c7147a108c39c5)
 - [@poojagera0_0: Broooo 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cd91d079760d76ce5c4127a128e3ac7)
 - [@bansal_pakhi: This one is for all the interns and SDEs out there. My manager gave me some tips on how to be wholesome software engineer, wanted to share it with everyone. A thread 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d3ebcf2c3eeb80a848d6fcead0cb15d2d9d9d77f2a7697cd915079168d461e6c2147a10893cc1)
-- [@VermaAbhigya: It makes me ecstatic to share that my Research Paper,  got published in the reputed journal of @springernature, Social Network, and Analysis&lpar;SNAM&rpar;.#connections #technology #research #share #network #publishing](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e293aa0ecc3c385128c817ec6ad0cb15d2d9d9d77f2a7697cda17079560d06de6c61a791c8b38c7)
-- [@poojagera0_0: Met @siddharth_hacks for just few hours but already know that this guy is a genius, everything is so on-point when you&#39;re around him. Bad jokes? Done. Awesome presentation? Done. Rajma Chawal? Done. Getting the best minds together? Done. &lpar;He&#39;s v protective of his plushies tho&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cdd140f9363d76be1c2167b108c38c3)
-- [@sivsouvam: Collated a few amazing community resources frameworks, resources &amp; tools to boost up your Community Professional Journey:🔎 Community OS by @ThreadoHQ &lpar;800+ resources&rpar;🔎 Community Canvas by @pforti &lpar;Frameworks&rpar;🔎 Community Master by @buildonscenes &lpar;Guidebook&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36a4f2cdf7911b88c974d3e30bb04f76d9db6bf2a36c7ad6100c9368d46ce2cb107816)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
