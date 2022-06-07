@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: *proud moment*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697fd615079264d66ee1c7127e1d8e33cc)
 - [@imvishp: 5 most important lessons, this book taught me 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632a4e8d1ea9755969266d3f70cea0d6cdbdc6ff0a36d7ddc1c0c9261dd6be2c412)
 - [@cbigdtuw: We thank the team of @hackthisfall for extending the invite to our members for Hack this fall:Delhi Meet-up, on April 28th and are proud of our Meridians @aditi_11898 @_kaurJasleen @iaakritimalla for taking the initiative and representing the values of the club wholeheartedly 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3dbbe6c6f6920dca9573c6f60ab61368dddd6af5a2697ddf140f9569d66ee4c5147b)
 - [@poojagera0_0: *melts* Thankyouuuu soooo muchhhh! 🥺🌻And you&#39;re more awesome than I am, thankyou for all the wonderful hacks 😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697fde130f9168d369e0c7147a108c39c5)
 - [@poojagera0_0: Broooo 😂😂😂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697cd91d079760d76ce5c4127a128e3ac7)
-- [@bansal_pakhi: This one is for all the interns and SDEs out there. My manager gave me some tips on how to be wholesome software engineer, wanted to share it with everyone. A thread 🧵](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d3ebcf2c3eeb80a848d6fcead0cb15d2d9d9d77f2a7697cd915079168d461e6c2147a10893cc1)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
