@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@Unnati_twts: Anyone who has experience of technical writing of blogs&lpar;tutorial,blogs&rpar; anything. Reach out to me with your resume and portfolio, I have amazing opportunity for you all.🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a16e78dd1c089b61d16ae6c3167d138e38)
-- [@poojagera0_0: Hi fren, meet Avocato 🥑Thankyouuuuuu @adityaoberai1 THIS IS SO ADORABLEEEEEEEEEEEEEE 😭😭😭😭😭😭🥺🥺🥺🥺🥺🥺🌻♥️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697ed7120f9a66dd6de2c2107b168d39c1)
-- [@poojagera0_0: *proud moment*](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697fd615079264d66ee1c7127e1d8e33cc)
-- [@imvishp: 5 most important lessons, this book taught me 💯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1632a4e8d1ea9755969266d3f70cea0d6cdbdc6ff0a36d7ddc1c0c9261dd6be2c412)
-- [@cbigdtuw: We thank the team of @hackthisfall for extending the invite to our members for Hack this fall:Delhi Meet-up, on April 28th and are proud of our Meridians @aditi_11898 @_kaurJasleen @iaakritimalla for taking the initiative and representing the values of the club wholeheartedly 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1c3dbbe6c6f6920dca9573c6f60ab61368dddd6af5a2697ddf140f9569d66ee4c5147b)
+- [@adityaoberai1: Need some help from y&#39;all folks 🙏Have a really good friend looking for entry-level React developer roles 👩‍💻Would be very grateful if you could share opportunities here in the comments or DM me about the same 😁Also, please like and RT 🫂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5dbe38818809466ceb350b648389c9b2beca36f7ed8170c9663d76ee3cb1072128c3fc767)
+- [@poojagera0_0: People who introduce you to good music should be protected at all costsFt. @GaganGulyani](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697ade160e9567d06ce7c21272128b3bc5)
+- [@poojagera0_0: Sharing the recording for those who couldn&#39;t attend ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697adf130d9362d769e0c2167f1d8d3dc1)
+- [@poojagera0_0: RT if you think this can help someone you know, thanks! 🌿](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697bd913069169dd60e7cb1a791d8d38c7)
+- [@poojagera0_0: See you tomorrow! Hoping to help you out with your participation in the prestigious Flipkart GRiD 4.0!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697bd913069263dc68e5c71a7b128b33c5)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
