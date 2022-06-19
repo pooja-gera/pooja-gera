@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@adityaoberai1: Finally releasing the blog on my journey to #DevRel tomorrow! 🤩](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5dbe38818809466ceb350b648389c9b2beca36f7ed8100b9068d069e4c11273168e3cc663)
 - [@adityaoberai1: Need some help from y&#39;all folks 🙏Have a really good friend looking for entry-level React developer roles 👩‍💻Would be very grateful if you could share opportunities here in the comments or DM me about the same 😁Also, please like and RT 🫂](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1e3bbbf5dbe38818809466ceb350b648389c9b2beca36f7ed8170c9663d76ee3cb1072128c3fc767)
 - [@poojagera0_0: People who introduce you to good music should be protected at all costsFt. @GaganGulyani](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697ade160e9567d06ce7c21272128b3bc5)
 - [@poojagera0_0: Sharing the recording for those who couldn&#39;t attend ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697adf130d9362d769e0c2167f1d8d3dc1)
 - [@poojagera0_0: RT if you think this can help someone you know, thanks! 🌿](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697bd913069169dd60e7cb1a791d8d38c7)
-- [@poojagera0_0: See you tomorrow! Hoping to help you out with your participation in the prestigious Flipkart GRiD 4.0!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7697bd913069263dc68e5c71a7b128b33c5)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
