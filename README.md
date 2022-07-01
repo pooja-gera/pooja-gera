@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: This is the content I live for](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e7fda140f9568d36ce1c41a72138d3dc1)
+- [@poojagera0_0: To all the GDSC Leads who graduated: You have absolutely no idea how many lives have you impacted, you&#39;ve set a bar for your successors and you should be super proud of yourselves! &lt;3 Thank you, for everything! Tagging my favorite lead here: @VaniChitkara](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e7fde140d9560d568e5ca177214833fcd)
 - [@poojagera0_0: Thankyouu @ekuekanshgupta for this 🥺🥺🥺🥺You superhooman](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76975da12099266d16ee3c1147e1d8b3ac4)
 - [@poojagera0_0: Urging you to zoom in and read, fun stuff about #FailuresAndGoals#GitHubFieldDayIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76975da110e9562d268e8ca1a73168b3fcd)
 - [@poojagera0_0: BTS of what happens if you give Pooja food.@imvishp thankyou so much for getting us sweets all the way from Gujarat 😭😭😭😭#GitHubFieldDayIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76975da110e9560d368e3c41a7b1d883fc1)
-- [@poojagera0_0: This is the only picture inside the photobooth where I look good, please enjoy. Awesome Figma skills @dwvicy ☔#GitHubFieldDayIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76975da110e9669d069e4c21b7e108f32c2)
-- [@poojagera0_0: Blueberry Muffins????WHO READ MY MIND @GHFieldDayIndia #GitHubFieldDayIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76975da110e9666dd6ce9c1177b108a39cc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
