@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Fun is an understatement for this day 🥺🥺♥️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e75dd160c9067d069e2c61373138e39c4)
+- [@poojagera0_0: This is so good! ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e75de150a9361d26ee2c2157d118b3dc4)
 - [@Unnati_twts: 🚨Another Help Hiring Post🚨One of my Good friend is looking for Developer Advocacy/DevRel rolesIf your company is hiring, then please leave your comments below! RTS appreciated!🙏](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a66f7dd9100c9368d76ae5c2167b1d8d3b)
 - [@poojagera0_0: Do you think dc got the inspiration of xray vision from Indian moms? Lose anything from a small eraser to a big box, you always have an interesting living breathing &quot;find my stuff&quot; human.Activate in one simple step:&lpar;inhales deeply&rpar; MUMMMYYYYYYYYYYY](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e79da10099a61d56be7c41479118c32c6)
 - [@poojagera0_0: The fun side of interning at @Microsoft ✨&lpar;The butter cookies were successfully devoured within 5 business hours&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e79dd150d9567d06fe5c11372118a38c3)
-- [@poojagera0_0: Animals liking you is such a flex](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e7ed7150e9161d568e4c6157c108c33c0)
-- [@poojagera0_0: This is the content I live for](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76e7fda140f9568d36ce1c41a72138d3dc1)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
