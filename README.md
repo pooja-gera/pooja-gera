@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@siddharth_hacks: What&#39;s a good venue to host a #hackathon in Delhi NCR for 700-800 people?🚀At your Coworking space, Company Office, College Campus, or anywhere else?💭Please send recommendations, and tag relevant folks who can help here! Do retweet for reach🙏](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36b6e5cae3950e8db96fc6e114b6132a9c8f2cb6e1757cda120e9065d26ce4c21472158a3ac76a87c2)
 - [@flutterconfin: 🥁🥁🥁🥁🥁🥁🥁Hey #Flutter #Community! Finally the wait is over 🥳We are launching the official website 💻 of the very 1st edition of Flutter Conf India 2022 tomorrow💙We hope that you all are excited as much as we are! Show us your enthusiasm in the comments 👇🏻@FlutterDev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1933a7f5d6e795198a8861ceec50b648389c9b2beca36f78da15099764d36ce8c210721d8a33c261)
 - [@incenndiaa: India&#39;s first-ever 5G spectrum auction concluded on Monday, with over 40 rounds of bidding for the same.The total bid amount for the sale of airwaves was over ₹1.5 lakh crore for around 51 GHz of spectrum, out of the 72 GHz that was put up for auction.-🧵-](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1631b1e4ccec8313848728d4f61eb1492ac7df6df6a66274de1d0c9a63d76ce9cb17791789)
 - [@poojagera0_0: Oh twitter how much I missed you](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76f79da14089167d66ae8c4137c118a3bc1)
 - [@poojagera0_0: Such a lovely evening! 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76f7cdb1d099460d46ee3c7177d1d8933c4)
-- [@Khyatigupta369: Set an Important, in your capacity, slightly challenging task as your HIGHLIGHT for the day!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3437abe0d6eb800f95926694b446ea4f2d899a2db0bd6b78da150e9368dd6fe1c11279108f3ec06588)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
