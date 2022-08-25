@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@Unnati_twts: Hey everyone! CodxCrypt is inviting you to the first ever meet-up on 3rd of September’22. I invite you to register for the meet-up! Here is the link to register  forward to see you all :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a46879da16069169d060e2c1107a148333)
+- [@knowShubhangi: #WomxnInCloud event this Saturday! We are ready, see you at the event ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1431bdf6f1ea92188d8769c0eb50b648389c9b2beca36f7bdd100f9469d169e5c31b72138f3dc065)
+- [@Unnati_twts: I’m organising a tech meet-up on 3 of Sept,2022, Who wants to attend? We have @Prathkum , @siddharth_hacks @poojagera0_0 @ravinwashere @Rishika5000 in the speaker panel🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a4687cdd140e9161d168e1c5157f128e33)
 - [@siddharth_hacks: What&#39;s a good venue to host a #hackathon in Delhi NCR for 700-800 people?🚀At your Coworking space, Company Office, College Campus, or anywhere else?💭Please send recommendations, and tag relevant folks who can help here! Do retweet for reach🙏](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36b6e5cae3950e8db96fc6e114b6132a9c8f2cb6e1757cda120e9065d26ce4c21472158a3ac76a87c2)
 - [@flutterconfin: 🥁🥁🥁🥁🥁🥁🥁Hey #Flutter #Community! Finally the wait is over 🥳We are launching the official website 💻 of the very 1st edition of Flutter Conf India 2022 tomorrow💙We hope that you all are excited as much as we are! Show us your enthusiasm in the comments 👇🏻@FlutterDev](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1933a7f5d6e795198a8861ceec50b648389c9b2beca36f78da15099764d36ce8c210721d8a33c261)
-- [@incenndiaa: India&#39;s first-ever 5G spectrum auction concluded on Monday, with over 40 rounds of bidding for the same.The total bid amount for the sale of airwaves was over ₹1.5 lakh crore for around 51 GHz of spectrum, out of the 72 GHz that was put up for auction.-🧵-](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1631b1e4ccec8313848728d4f61eb1492ac7df6df6a66274de1d0c9a63d76ce9cb17791789)
-- [@poojagera0_0: Oh twitter how much I missed you](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76f79da14089167d66ae8c4137c118a3bc1)
-- [@poojagera0_0: Such a lovely evening! 🌻](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76f7cdb1d099460d46ee3c7177d1d8933c4)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
