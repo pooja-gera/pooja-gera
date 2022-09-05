@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: This intro is soooo sweet! Thankyouu Unnati for having me! Going to talk about hackathons from the perspective of a student as well as a judge, looking forward to meeting future hackers and future hack organizers! 👑](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c78dc160f9569d26fe2c7157b108e33c5)
-- [@poojagera0_0: Super proud of youuuu Ananya! Look @blockchainbalak @heyayushh @solana @rishabhbansal97 what one push from you did for our @cbigdtuw kids 😭Crying brb](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7ed813099163dc6de7c5107e138d3bc5)
-- [@Unnati_twts: Hey everyone! CodxCrypt is inviting you to the first ever meet-up on 3rd of September’22. I invite you to register for the meet-up! Here is the link to register  forward to see you all :&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a46879da16069169d060e2c1107a148333)
-- [@knowShubhangi: #WomxnInCloud event this Saturday! We are ready, see you at the event ✨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1431bdf6f1ea92188d8769c0eb50b648389c9b2beca36f7bdd100f9469d169e5c31b72138f3dc065)
-- [@Unnati_twts: I’m organising a tech meet-up on 3 of Sept,2022, Who wants to attend? We have @Prathkum , @siddharth_hacks @poojagera0_0 @ravinwashere @Rishika5000 in the speaker panel🥳](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2a31bce0d6ebb80e92927488f10ba4482c9bc169f6a4687cdd140e9161d168e1c5157f128e33)
+- [@poojagera0_0: Thankyouuuu! I am so happy my talk was scheduled after yours  Had that &quot;gotta up my game 2 levels to maintain the energy he created in the room&quot; in my mind](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100e9262d16fe5c7117d138e3ec7)
+- [@poojagera0_0:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9464d06fe7c2147f158b39c1)
+- [@poojagera0_0: I&#39;m so happy I have juniors like you who come and listen to what I have to say](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9168d46be4ca1b7215883dc4)
+- [@poojagera0_0: I&#39;ve been called &quot;ma&#39;am&quot; I...Time to learn calligraphy to give autographs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde150c9463d46fe9c51a73128e32c7)
+- [@poojagera0_0: Pooja is Patrick today  …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde150c9764d36fe1cb147c1c8b33c6)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
