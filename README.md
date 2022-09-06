@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
-- [@poojagera0_0: Thankyouuuu! I am so happy my talk was scheduled after yours  Had that &quot;gotta up my game 2 levels to maintain the energy he created in the room&quot; in my mind](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100e9262d16fe5c7117d138e3ec7)
-- [@poojagera0_0:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9464d06fe7c2147f158b39c1)
-- [@poojagera0_0: I&#39;m so happy I have juniors like you who come and listen to what I have to say](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9168d46be4ca1b7215883dc4)
-- [@poojagera0_0: I&#39;ve been called &quot;ma&#39;am&quot; I...Time to learn calligraphy to give autographs](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde150c9463d46fe9c51a73128e32c7)
-- [@poojagera0_0: Pooja is Patrick today  …](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde150c9764d36fe1cb147c1c8b33c6)
+- [@pooja_ramnaney: @poojagera0_0 di I loved your talk on how to Ace HackathonsHeard you talk for the first time, i am inspired by the way you engaged all of us!!Really lucky to have you as a senior!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3dd951b888866c9e706ea4f2d899a2db0bd6b78d9120d9464dd68e7c61b7a128333cc6581)
+- [@himanshi090402: @poojagera0_0 di told us abt How to ace Hackathons...Major learningsBelieve in yourself and participate even if you don&#39;t knw everything...u will learn in the hackathons...going to apply all the learnings in the next hackathon for sure...](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1736bfe0ccf18f13d5df3793b24dea4f2d899a2db0bd6b78d9120d9366d169e5c4127d1d8e33c06a83)
+- [@poojagera0_0: Thankyouuuu! I am so happy my talk was scheduled after yours 😭 Had that &quot;gotta up my game 2 levels to maintain the energy he created in the room&quot; in my mind](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100e9262d16fe5c7117d138e3ec7)
+- [@poojagera0_0: 💡💡💡](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9464d06fe7c2147f158b39c1)
+- [@poojagera0_0: I&#39;m so happy I have juniors like you who come and listen to what I have to say 😭😭😭😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76c7bde100f9168d46be4ca1b7215883dc4)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
