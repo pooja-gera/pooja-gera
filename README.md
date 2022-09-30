@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Second workshop of the day for #IamRemarkable week 2022 😍✨@IamRemarkable_ Thankyou Vashitva, Shreel, Khushi, Shreyal, Sakshi, Namya, Priya, Avnee, Riya and Riya for attending! 🪷](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d78db13079469d168e5c5117e128239cd)
+- [@poojagera0_0: The first workshop of the day for #IamRemarkable week 2022 🥰🪄@IamRemarkable_ Thankyou Punya, Mimansa, Saloni, Kaavya, Hiteshi, Aanchal, Ritu, Meghna, Geetika, Akriti, Priya, Himanshi, Tanvi, Vedika and Saumya for attending! 🌊](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d78db160c9b64d46ae3c6107816823dc5)
 - [@poojagera0_0: 🇮🇳🪷 The way the dev community is progressing in India, can&#39;t wait to see what the future has in store for our country, to the moon w/ @GitHubIndia](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d79d816069564d36de5cb167b158d3bc5)
 - [@poojagera0_0: A certified #IamRemarkable facilitator now! ❤️Interesting workshops coming up STAT.DMs are always open to facilitate or co-facilitate workshops around you ✨Know about the program here:](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d79d8150c9368d569e1c21b7f118239c5)
 - [@poojagera0_0: Authentication 101 Workshop w/ @Innerveigdtuw and @cbigdtuw Audience at IGDTUW &gt;&gt;&gt;&gt;&gt;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d79dd1d0e9464d16ae1c5157f148239cd)
-- [@poojagera0_0: Never knew pranking your friends could be this simple 😂Thankyouu @adityaoberai1 for letting your secret out and @twilio @ankitatr_ for having us all there! #TwilioChampionsDelhi #TwilioChamps Omw to build a bot w/ our geek field operator Chiranjeev&#39;s advices 🏃🏻‍♀️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d7ed9100a9666d169e8c1137f108338c7)
-- [@poojagera0_0: 🐼♥️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d7eda1c0c9361d16ae8ca177f128a3cc3)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
