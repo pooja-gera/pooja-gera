@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@hackthisfall: Have you been waiting to get started with Git &amp; GitHub?💻Join @parasg1999 &amp; @Apoorvdwi at our event as they walk you through the Basics of Git &amp; GitHub and help you get started with your first #OpenSource Contributions! 🚀Register now:  👋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76d74de170b9668d669e7cb167312833fcc)
+- [@hackthisfall: Are you participating as a maintainer this #Hacktoberfest?🛰️Or do you wanna showcase your project that you want to build with the community?🤯Drop your awesome #OpenSource project links below &amp; get a chance to showcase it in-person at our Hacktoberfest event on 16th October🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76d74df1d0b9069d56ee6c41a7b178e33c3)
+- [@poojagera0_0: Twilight: The Dawn of Self Love, Treasure Hunt to find things that matter during #SelfCareMonth #IamRemarkableWeek at IGDTUW with @Innerveigdtuw @cbigdtuw Surreal✨#IamRemarkable @IamRemarkable_](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d74df17099269d76be6c0137d168e3dc4)
 - [@poojagera0_0: See You There! &lt;3](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d75df120a9762d769e8c01278178c32c3)
 - [@poojagera0_0: 😈🍁](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d7ad71d089166d360e1c5107b118333cd)
-- [@poojagera0_0: Does completing my entire syllabus one day before exams make me supernatural?](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d7ada130e9168dc6ae5c3147f118b3ec3)
-- [@poojagera0_0: Second workshop of the day for #IamRemarkable week 2022 😍✨@IamRemarkable_ Thankyou Vashitva, Shreel, Khushi, Shreyal, Sakshi, Namya, Priya, Avnee, Riya and Riya for attending! 🪷](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d78db13079469d168e5c5117e128239cd)
-- [@poojagera0_0: The first workshop of the day for #IamRemarkable week 2022 🥰🪄@IamRemarkable_ Thankyou Punya, Mimansa, Saloni, Kaavya, Hiteshi, Aanchal, Ritu, Meghna, Geetika, Akriti, Priya, Himanshi, Tanvi, Vedika and Saumya for attending! 🌊](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76d78db160c9b64d46ae3c6107816823dc5)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
