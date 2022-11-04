@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@hackthisfall: Are you looking to meet new people and build great hack projects? 🤔Well, hackathons are a great way to collaborate with awesome folks and enjoy the process of building! 🛠️ Participate in your next hackathon now:  🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a7627ad7140b9268d06ce6c21772118b3cc6)
+- [@poojagera0_0: Twitter is the real social media - share, interact and even get support from the community. It’s lovely.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627ad815069a69d16de8ca1a72118d39c4)
+- [@poojagera0_0: love how I can see the Indian flag everywhere these days &lt;3 A1 initiative 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627ad815079060d46ce5c4167e1d8832cd)
 - [@poojagera0_0: mad respect for creators who scrape through vast volumes of content to bring crisp concise information to people, peak angelic behaviour](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627adc150a9166d06fe3c7137d1d8d3dc1)
 - [@poojagera0_0: Do join in!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627fdd16089261d26ce9c11479128f32c3)
-- [@poojagera0_0: First time contributors, pay attention 🚨](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627ddd17089b60d361e8c3107b10883ecd)
-- [@hackthisfall: Have you been waiting to get started with Git &amp; GitHub?💻Join @parasg1999 &amp; @Apoorvdwi at our event as they walk you through the Basics of Git &amp; GitHub and help you get started with your first #OpenSource Contributions! 🚀Register now:  👋](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76d74de170b9668d669e7cb167312833fcc)
-- [@hackthisfall: Are you participating as a maintainer this #Hacktoberfest?🛰️Or do you wanna showcase your project that you want to build with the community?🤯Drop your awesome #OpenSource project links below &amp; get a chance to showcase it in-person at our Hacktoberfest event on 16th October🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76d74df1d0b9069d56ee6c41a7b178e33c3)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
