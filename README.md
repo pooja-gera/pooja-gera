@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: writing “got a table at Ama Café” on my resume as an achievement ☕️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76274d914089769d161e6c31b73118239c4)
 - [@poojagera0_0: how did I end up making everyday a deadline day 😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76274de13069168d76be4c1157a13893fcc)
 - [@poojagera0_0: Will pay 8$ for reply to message feature @elonmusk 🥰🥰](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76275d6150a9163d26fe8c513781c8f38c7)
 - [@hackthisfall: Are you looking to meet new people and build great hack projects? 🤔Well, hackathons are a great way to collaborate with awesome folks and enjoy the process of building! 🛠️ Participate in your next hackathon now:  🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a7627ad7140b9268d06ce6c21772118b3cc6)
 - [@poojagera0_0: Twitter is the real social media - share, interact and even get support from the community. It’s lovely.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627ad815069a69d16de8ca1a72118d39c4)
-- [@poojagera0_0: love how I can see the Indian flag everywhere these days &lt;3 A1 initiative 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7627ad815079060d46ce5c4167e1d8832cd)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
