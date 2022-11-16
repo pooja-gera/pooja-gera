@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: Thank you @IamRemarkable_ for these amazing eco-friendly goodies! ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda100d9564d461e4ca1773148939c1)
+- [@poojagera0_0: VOTE FOR THE BEST DEVREL PROFESSIONAL I HAVE EVER SEEN 🥺🥺🥺🥺&lpar;exams are otw *anya forger sneaky laugh* one vote = 10 more marks&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda15089464d16be8ca127d1d8c3dc1)
+- [@poojagera0_0: 12 hours Turnitin VS. Me @Nishtha_0801 @VermaAbhigyaPlag khatam hoga ya humStay tuned 🫠](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda15089161d368e6c71379148d3fc5)
 - [@poojagera0_0: Thankyou so much @ialimustufa for giving me and @cbigdtuw the opportunity to host API Day 2022! 8 bit unicorn ftw 🦄 And thankyou soooo much @Hiteshi01 for this lovely gift 😭😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637cdb100e9764dd6ce9c4137c1c833ac2)
 - [@Shakshi58312592: It was an amazing session conducted by postman community. Learnt a lot of cool stuff about API. It was very interesting and interactive session. @getpostman #PostmanStudent @ialimustufa @poojagera0_0](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37b3ead1ea8e4fddd53695b746f7132a9c8f2cb6e1757cda1d0e9065d669e2c7127c118b3ec66687ca)
-- [@_nishikasharma: Heyyy..!!! This session is most interactive nd fun as well as learning session I have ever participated..!! I feel fortunate to learn about api stuff...!! Baki i will continue after session!! ❤#postmanstudent @getpostman @ialimustufa @poojagera0_0](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2031bbf2caeb8c1b968e66d5ef1eea4f2d899a2db0bd6b78d6150c9662dd6ee4cb167c11883cc16388)
-- [@Kanika28W: Shweta ma&#39;am,your presence made this event more graceful.I learnt &amp; unlearnt many new things about API&#39;s and also want to try hands on session.ENJOYING THIS EVENT WITH FULL GUSTO.Umpteen felicitations for a wonderful session indeed@ialimustufa @poojagera0_0 #PostmanStudent](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e343ebce8c9e3d542b2c974d3e30bb04f76d9db61f2a16f7fd8100d9466dc6ae3c715791c)
-- [@sakshimiishra: API day 2022@getpostman @ialimustufa @poojagera0_0 #PostmanStudent](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c3eb9f2caeb8a138c956fd5e350b648389c9b2beca36f74de170a9165d06ae7cb137c128e39c063)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
