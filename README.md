@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@siddharth_hacks: Hey @elonmusk, @hackthisfall is looking for sponsors! Would be great to see how we can collaborate to drive innovation!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0c36b6e5cae3950e8db96fc6e114b6132a9c8f2cb6e1757cda1d0d9666d16be2c5117913883cc56185c2)
 - [@poojagera0_0: Thank you @IamRemarkable_ for these amazing eco-friendly goodies! ❤️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda100d9564d461e4ca1773148939c1)
 - [@poojagera0_0: VOTE FOR THE BEST DEVREL PROFESSIONAL I HAVE EVER SEEN 🥺🥺🥺🥺&lpar;exams are otw *anya forger sneaky laugh* one vote = 10 more marks&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda15089464d16be8ca127d1d8c3dc1)
 - [@poojagera0_0: 12 hours Turnitin VS. Me @Nishtha_0801 @VermaAbhigyaPlag khatam hoga ya humStay tuned 🫠](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637fda15089161d368e6c71379148d3fc5)
 - [@poojagera0_0: Thankyou so much @ialimustufa for giving me and @cbigdtuw the opportunity to host API Day 2022! 8 bit unicorn ftw 🦄 And thankyou soooo much @Hiteshi01 for this lovely gift 😭😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637cdb100e9764dd6ce9c4137c1c833ac2)
-- [@Shakshi58312592: It was an amazing session conducted by postman community. Learnt a lot of cool stuff about API. It was very interesting and interactive session. @getpostman #PostmanStudent @ialimustufa @poojagera0_0](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37b3ead1ea8e4fddd53695b746f7132a9c8f2cb6e1757cda1d0e9065d669e2c7127c118b3ec66687ca)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
