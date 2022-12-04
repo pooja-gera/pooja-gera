@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: 😭😭😭😭😭🔥🔥🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76375d914079668d769e6c1167b1d8933c7)
+- [@poojagera0_0: Thank you @gdgrnc @explorash for this opportunity! 🙌✅ Will be speaking beyond Delhi NCR for the first time, super excited to meet and interact with Ranchi developers 💃 P.S. Be on a lookout for giveaways! 😈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76375da10099568d469e7c510791c8239cc)
 - [@poojagera0_0: Getting into my “2 steps backward 4 steps forward” phase 💆‍♀️](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637bde1c0c9266d06ce0c0137216893ec2)
 - [@poojagera0_0: Thank-you @IgdtuwMsc team and @VermaAbhigya for having me ❤️❤️Love taking the stage and talking about tech, feels good to combine development and personal experiences for the audience to learn better. 🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76379dc110e9466dd69e9c1147d108d3fc5)
 - [@poojagera0_0: I wanna be invited to someone’s podcast fr 😭 Was told last week by a school principal I was visiting for some work that I can be a “life coach” coz I have very nice things to say 🥺 I.. blessed ngl ❤️🙌](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a7637ed9160f9560d168e0c3177f1c8d3cc1)
-- [@itsshivanshi: @IgdtuwMsc @Twitter @poojagera0_0&quot;Do u even know how the web works?&quot; is THE question we all must ask ourselves. Also, Java script is the god of webD world, very excited to learn more about it!! &lpar;shh... this is a secret but backend is easier than frontend🤫&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e162ba1f2caeb911b8b956fcead0cb15d2d9d9d77f2a7637eda160f9460d26fe0cb107b10833dc0)
-- [@Shivanshi012004: @IgdtuwMsc @Twitter @poojagera0_0&quot;Do u even know how the web works?&quot; is THE question we all must ask ourselves. Also, Java script is the god of webD world, very excited to learn more about it!! &lpar;shh... this is a secret but backend is easier than frontend🤫&rpar;](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e2c37bbf7c3ec94128cd63695b24ff1132a9c8f2cb6e1757cda1d0c9662d56fe1c5157a1d893bc16b87c7)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
