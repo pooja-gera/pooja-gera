@@ -28,9 +28,9 @@
 <!-- TWITTER:START -->
 - [@hackthisfall: Join us in Pune on 10th Dec, as @varun1505 gives an interesting talk titled &quot;I Code; Therefore, I am;&quot; Register now:  🛠](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76374db16089a66d26ae2c2177f118239c4)
 - [@poojagera0_0: I’ve discovered Punjabi dub episodes of Doraemon on YouTube. HILARIOUS I’m crying 😂😂😂😂😂😂😂😂😭😭😭😭😭](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76374dc1c0a9069d768e5c31a7f148d3fc7)
+- [@knowShubhangi: SWAGS are a by-product of your community contribution. Don’t run after them.](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1431bdf6f1ea92188d8769c0eb50b648389c9b2beca36f74d6170a9562d46ce6c0147c11833fc563)
 - [@hackthisfall: Curious about how a modern backend can help you build fantastic digital products? 🤔Well, join us in Pune on 10th Dec, as @BhosalePratim runs a workshop on how you can build a quick backend with @nhost in a few simple steps! 💻Register now:  🛠](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a76374df160b9560d369e2c41378158e33c1)
 - [@poojagera0_0: 😭😭😭😭😭🔥🔥🔥🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76375d914079668d769e6c1167b1d8933c7)
-- [@poojagera0_0: Thank you @gdgrnc @explorash for this opportunity! 🙌✅ Will be speaking beyond Delhi NCR for the first time, super excited to meet and interact with Ranchi developers 💃 P.S. Be on a lookout for giveaways! 😈](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a76375da10099568d469e7c510791c8239cc)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
