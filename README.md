@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@poojagera0_0: How to become a Human Idea Factory at #DevfestRanchi Surreal experience. Fantastic audience. Gracious hosts. Most talented and kind speakers. 💫♥️ Thank you @gdgrnc for making me a part of this!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a7fdd13099b60d36ee9cb1b7c168939c1)
 - [@poojagera0_0: It’s a wrap! Thankyouuu so much @gdgrnc @dhiwise @GitHubEducation @devtown_tech for having me at Devfest Ranchi 2022! Spam coming sooooonnn 🥰🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a7cda10099463dc6ae5ca147217893fcd)
 - [@biranjay_gupta: The event of @poojagera0_0 about the human idea factory was so inspirational. It helps to understand how we can develop ourselves, how can we get new ideas - by coming out of comfort zone. @gdgnrc #theHumanIdeaFactory #devfest #devfest2022 #gdgrnc #devfestranchi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e1d36a0e0cce88603ba8172d7f61eea4f2d899a2db0bd6b7bdf150a9067d06ce2c0157b138b3cc76381)
 - [@Anushkadari: Next @poojagera0_0 beautifully presented before us what is brainstorming, how should we target basic day to day problems and look for the solutions for the same .](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3e31a7f2cae9861e84946e88f10ba4482c9bc169f5a26b78dc130c9b62d46ae0c1167b1d8933)
 - [@ravindraP04: 3&rpar;Assemble a team of people to help you implement your project.4&rpar;Start implementing your project, following your plan and timeline5&rpar;Once your project is complete, evaluate its success and document the results@gdgrnc #devfestranchi](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3ea4e8cce6951bb5d63388f10ba4482c9bc169f5a26b78dc140e9a64d261e4c31b7d108a3d)
-- [@ravindraP04: to convert an idea into a practical project:- 1&rpar;Start by defining your idea in specific terms. What is the problem or need that your idea addresses?2&rpar;Identify the resources you will need to implement your project. @poojagera0_0 🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0d3ea4e8cce6951bb5d63388f10ba4482c9bc169f5a26b78dc140e9b67d069e2ca1a7f128c39)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
