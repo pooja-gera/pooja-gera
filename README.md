@@ -26,11 +26,11 @@
 ### 📱 Latest Tweets
 
 <!-- TWITTER:START -->
+- [@hackthisfall: Knock knock hackers 🖖🏻@hackthisfall 3.0 is all set to happen in-person from 3rd to 5th February 2023 🐿️🎉Can you guess the venue city? It&#39;s not that difficult 😏](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e173eb1ead6ea8e0983876bcbad0cb15d2d9d9d77f2a46b7dd615089269d56ee1cb177e1d8e3ec7)
 - [@poojagera0_0: Fun fact about being connected to tech twitter: you get to learn about so many new tools and technologies and what people are doing and what new and old tech companies are doing and it’s glorious because woah I’m in the same field as these tech magicians?? Surreal. 🤯](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a74db1c0a9465d260e7c21b7f158339c3)
 - [@poojagera0_0: It’s interesting how the colour black can symbolise darkness and negativity but at the same time is also the most favoured colour to depict luxury and style. uoᴉʇdǝɔɹǝԀ 💫](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a74df110c9068d468e6c21773158c3dc5)
 - [@poojagera0_0: It’s so crazy that I’ll never be able to see the content of all the creators out there, never be able to experience the creativity and talent of everyone on the planet. It’s so overwhelming yet so beautiful that there is so much to look forward to. Endless possibilities. 💫](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a75dc11099467d76ae3cb1a7812833bc5)
 - [@poojagera0_0: How to become a Human Idea Factory at #DevfestRanchi Surreal experience. Fantastic audience. Gracious hosts. Most talented and kind speakers. 💫♥️ Thank you @gdgrnc for making me a part of this!](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a7fdd13099b60d36ee9cb1b7c168939c1)
-- [@poojagera0_0: It’s a wrap! Thankyouuu so much @gdgrnc @dhiwise @GitHubEducation @devtown_tech for having me at Devfest Ranchi 2022! Spam coming sooooonnn 🥰🔥](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e0f30bdebc3e5820884d65897ad0cb15d2d9d9d77f2a46a7cda10099463dc6ae5ca147217893fcd)
 <!-- TWITTER:END -->
 
 <h3 align="left">Connect with me:</h3>
