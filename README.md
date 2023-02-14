@@ -1,5 +1,6 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Pooja Gera</h1>
-<h3 align="center">Web Developer | UI Designer | Community Leader</h3>
+<h3 align="center">
+SWE '23 @PaloAltoNetworks || SWE Intern '22 @Microsoft || Founder @CelestialBiscuitIGDTUW || Runner Up (Health Category) - Microsoft Imagine Cup '23 India Regionals || National 2nd Runner Up @Flipkart GRiD 3.0 || Postman Student Leader || Winner @VMWareCAPHackathon || Speaker || Mentor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pooja-gera&label=Profile%20views&color=0e75b6&style=flat" alt="pooja-gera" /> </p>
 
@@ -7,21 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/poojagera0_0" target="blank"><img src="https://img.shields.io/twitter/follow/poojagera0_0?logo=twitter&style=for-the-badge" alt="poojagera0_0" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Generative Art**
 
-- 💬 Ask me about **Web Development, Design and Public Speaking**
+- 💬 Ask me about **Python, Machine Learning, Bots and Public Speaking**
 
 - 📫 Reach out to me at **developergera@gmail.com**
 
-- * My primary coding and problem solving language: C++
+- * My primary coding and problem solving language: Python
 
 - I give back to the community I have gained so much from. 
 
 - I write technical articles in a fun way.
 
 - I am a rotaractor and I volunteer for community service events. 
-
-- I will be happy to help you for your queries regarding web development. 
 
 ### 📱 Latest Tweets
 
