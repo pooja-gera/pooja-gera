@@ -125,10 +125,10 @@ SWE '23 @PaloAltoNetworks || SWE Intern '22 @Microsoft || Founder @CelestialBisc
 
 ![Visitor Count](https://profile-counter.glitch.me/{pooja-gera}/count.svg)
 
-[twitter]: https://twitter.com/poojagera0_0
-[gmail]: developergera@gmail.com
-[linkedin]: https://www.linkedin.com/in/pooja-gera/
-[Medium]: https://developergera.medium.com/
-[Instagram]: https://www.instagram.com/pooojagera
+[twitter]: https://twitter.com/VermaAbhigya
+[gmail]: abhigyaverma27@gmail.com
+[linkedin]: https://www.linkedin.com/in/abhigya02/
+[Medium]: https://abhigya27.medium.com/
+[YouTube]: https://www.youtube.com/channel/UC0Hm0qWab9Z_x80Sys4GeIw/
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
